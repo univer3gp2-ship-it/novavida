@@ -1,0 +1,71 @@
+{
+  "stream_url": "https://cast5.hoost.com.br:8217/stream",
+  "app_name": "Andrômeda FM-Torres RS",
+  "logo_url": "https://i.postimg.cc/rs1BV60n/logotipo006-800x800.jpg",
+  "background_url": "https://i.postimg.cc/g2VnCr2c/fundo-pag-3.png",
+  "bg_tint_color": "#eba45f",
+  "bg_tint_opacity": 0.00,
+  "live_badge_text": "Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": true,
+  "enable_album_view": true,
+  "banner_interval_ms": 5000,
+  "sponsor_label": "COLABORE E AJUDE SEU PET",
+  "enable_live_badge": true,
+
+  "banners": [
+    {
+      "title": "CANIL DE TORRES",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/rmVVwXxf/CANIL-DE-TORRES-03.png"
+,
+      "click_url": ""
+    },
+
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/XJqdTFZp/ASSOCIACAO-TORRENSE-DE-PROTECAO-AOS-ANIMAIS-7.png",
+      "click_url": "https://w.app/atpa"
+    },
+{
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/j2mjLndX/ORFAGATINHOS.png",
+      "click_url": "https://w.app/orfagatinhos"
+    },
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://w.app/andromedafm "
+    },
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=61593455924119"
+    },
+    {
+      "icon": "instagram",
+      "url": "  "
+    },
+    {
+      "icon": "website",
+      "url": "  "
+    }
+  ]
+}
