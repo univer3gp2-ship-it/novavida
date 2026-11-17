@@ -21,17 +21,20 @@
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
 
+  "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
+  "chat_background_url": "https://i.postimg.cc/QtW5V3QZ/download.png",
+  "chat_bg_tint_color": "#8B5CF6",
+  "chat_bg_tint_opacity": 0.00,
+
   "banners": [
     {
       "title": "CANIL DE TORRES",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.postimg.cc/rmVVwXxf/CANIL-DE-TORRES-03.png"
-,
+      "image_url": "https://i.postimg.cc/rmVVwXxf/CANIL-DE-TORRES-03.png",
       "click_url": ""
     },
-
     {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
@@ -40,20 +43,20 @@
       "image_url": "https://i.postimg.cc/XJqdTFZp/ASSOCIACAO-TORRENSE-DE-PROTECAO-AOS-ANIMAIS-7.png",
       "click_url": "https://w.app/atpa"
     },
-{
+    {
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/j2mjLndX/ORFAGATINHOS.png",
       "click_url": "https://w.app/orfagatinhos"
-    },
+    }
   ],
 
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://w.app/andromedafm "
+      "url": "https://w.app/andromedafm"
     },
     {
       "icon": "facebook",
@@ -61,11 +64,11 @@
     },
     {
       "icon": "instagram",
-      "url": "  "
+      "url": ""
     },
     {
       "icon": "website",
-      "url": "  "
+      "url": ""
     }
   ]
 }
