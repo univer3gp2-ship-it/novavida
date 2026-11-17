@@ -19,7 +19,7 @@
   "enable_album_view": true,
   "banner_interval_ms": 5000,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
-  "enable_live_badge": true,
+  "enable_live_badge": false,
 
   "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
   "chat_background_url": "https://i.postimg.cc/QtW5V3QZ/download.png",
