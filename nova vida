@@ -1,10 +1,10 @@
 {
   "stream_url": "https://cast5.hoost.com.br:8217/stream",
-  "app_name": "Andrômeda FM-Torres RS",
+  "app_name": "NOVA VIDA FM",
   "logo_url": "https://i.postimg.cc/rs1BV60n/logotipo006-800x800.jpg",
-  "background_url": "https://i.postimg.cc/g2VnCr2c/fundo-pag-3.png",
+  "background_url": "https://i.postimg.cc/ydqxQSR6/85663996aedb620c761c0da0b8b4b267.jpg",
   "bg_tint_color": "#eba45f",
-  "bg_tint_opacity": 0.00,
+  "bg_tint_opacity": 0.80,
   "live_badge_text": "Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
