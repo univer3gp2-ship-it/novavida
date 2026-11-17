@@ -1,20 +1,25 @@
-[
-  {
-    "title": "Culto de Oração",
-    "author": "Igreja Central",
-    "message": "Hoje às 19h30, culto de oração. Todos são bem-vindos!",
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Campanha do Agasalho",
-    "author": "Grupo Solidário",
-    "message": "Doe agasalhos e cobertores. Pontos de coleta no centro da cidade.",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Parabéns!",
-    "author": "Andrômeda FM",
-    "message": "Parabéns a todos os aniversariantes da semana. Mande seu recado pelo WhatsApp!",
-    "date": ""
-  }
-]
+{
+  "background_url": "https://i.postimg.cc/4xSRNbL4/e6cee8b54dedc0d5f96ae82a70e2256f.jpg",
+  "bg_tint_color": "#10B981",
+  "bg_tint_opacity": 0.60,
+  "recados": [
+    {
+      "title": "Culto de Oração",
+      "author": "Igreja Central",
+      "message": "Hoje às 19h30, culto de oração. Todos são bem-vindos!",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Campanha do Agasalho",
+      "author": "Grupo Solidário",
+      "message": "Doe agasalhos e cobertores. Pontos de coleta no centro da cidade.",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Parabéns!",
+      "author": "Andrômeda FM",
+      "message": "Parabéns a todos os aniversariantes da semana. Mande seu recado pelo WhatsApp!",
+      "date": ""
+    }
+  ]
+}
