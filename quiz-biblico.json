@@ -1,3 +1,4 @@
+
 {
   "title": "Quiz Bíblico",
   "questions": [
@@ -84,6 +85,279 @@
       "correct_index": 1,
       "reference": "Mateus 9:9",
       "explanation": "Jesus chamou Mateus enquanto ele estava sentado na coletoria."
+    },
+    {
+      "question": "Quem foi lançado na cova dos leões?",
+      "options": ["Daniel", "José", "Ezequiel", "Jeremias"],
+      "correct_index": 0,
+      "reference": "Daniel 6:16-23",
+      "explanation": "Daniel foi lançado na cova dos leões por continuar orando a Deus."
+    },
+    {
+      "question": "Quem foi o primeiro homem criado por Deus?",
+      "options": ["Abel", "Adão", "Caim", "Enoque"],
+      "correct_index": 1,
+      "reference": "Gênesis 2:7",
+      "explanation": "Deus formou Adão do pó da terra e soprou em suas narinas o fôlego de vida."
+    },
+    {
+      "question": "Qual era o nome da esposa de Adão?",
+      "options": ["Sara", "Rebeca", "Eva", "Raquel"],
+      "correct_index": 2,
+      "reference": "Gênesis 3:20",
+      "explanation": "Adão deu à sua esposa o nome de Eva."
+    },
+    {
+      "question": "Quem recebeu os Dez Mandamentos de Deus no monte Sinai?",
+      "options": ["Josué", "Arão", "Moisés", "Calebe"],
+      "correct_index": 2,
+      "reference": "Êxodo 31:18",
+      "explanation": "Deus entregou a Moisés as duas tábuas do testemunho."
+    },
+    {
+      "question": "Quem foi vendido pelos próprios irmãos como escravo?",
+      "options": ["Benjamim", "José", "Rúben", "Judá"],
+      "correct_index": 1,
+      "reference": "Gênesis 37:28",
+      "explanation": "Os irmãos de José o venderam a mercadores que o levaram para o Egito."
+    },
+    {
+      "question": "Qual mulher se tornou rainha e salvou o povo judeu?",
+      "options": ["Rute", "Ester", "Débora", "Miriã"],
+      "correct_index": 1,
+      "reference": "Ester 4:14-16",
+      "explanation": "Ester arriscou sua vida para interceder pelo povo judeu diante do rei."
+    },
+    {
+      "question": "Quem foi conhecido por sua grande força e cabelos compridos?",
+      "options": ["Sansão", "Saul", "Gideão", "Salomão"],
+      "correct_index": 0,
+      "reference": "Juízes 16:17",
+      "explanation": "Sansão revelou a Dalila que seu cabelo nunca havia sido cortado."
+    },
+    {
+      "question": "Quem foi o homem mais sábio que pediu sabedoria a Deus?",
+      "options": ["Davi", "Salomão", "Moisés", "Elias"],
+      "correct_index": 1,
+      "reference": "1 Reis 3:9-12",
+      "explanation": "Salomão pediu entendimento para governar o povo, e Deus lhe concedeu grande sabedoria."
+    },
+    {
+      "question": "Qual profeta foi levado ao céu em um redemoinho?",
+      "options": ["Isaías", "Eliseu", "Elias", "Jeremias"],
+      "correct_index": 2,
+      "reference": "2 Reis 2:11",
+      "explanation": "Elias foi levado ao céu em um redemoinho, acompanhado de carros e cavalos de fogo."
+    },
+    {
+      "question": "Quem era a mãe de Jesus?",
+      "options": ["Marta", "Maria", "Isabel", "Ana"],
+      "correct_index": 1,
+      "reference": "Lucas 1:30-31",
+      "explanation": "O anjo Gabriel anunciou a Maria que ela daria à luz Jesus."
+    },
+    {
+      "question": "Qual era a profissão de Pedro antes de seguir Jesus?",
+      "options": ["Carpinteiro", "Pescador", "Agricultor", "Soldado"],
+      "correct_index": 1,
+      "reference": "Mateus 4:18-20",
+      "explanation": "Pedro era pescador quando Jesus o chamou para ser pescador de homens."
+    },
+    {
+      "question": "Quem batizou Jesus no rio Jordão?",
+      "options": ["Pedro", "João Batista", "Tiago", "André"],
+      "correct_index": 1,
+      "reference": "Mateus 3:13-17",
+      "explanation": "João Batista batizou Jesus nas águas do rio Jordão."
+    },
+    {
+      "question": "Durante quantos dias e noites Jesus jejuou no deserto?",
+      "options": ["7 dias", "12 dias", "30 dias", "40 dias"],
+      "correct_index": 3,
+      "reference": "Mateus 4:1-2",
+      "explanation": "Jesus jejuou quarenta dias e quarenta noites no deserto."
+    },
+    {
+      "question": "Qual discípulo duvidou da ressurreição de Jesus até vê-lo?",
+      "options": ["Tomé", "Pedro", "Filipe", "Judas"],
+      "correct_index": 0,
+      "reference": "João 20:24-29",
+      "explanation": "Tomé queria ver as marcas dos cravos antes de acreditar que Jesus havia ressuscitado."
+    },
+    {
+      "question": "Quem traiu Jesus por trinta moedas de prata?",
+      "options": ["Pedro", "Judas Iscariotes", "João", "Mateus"],
+      "correct_index": 1,
+      "reference": "Mateus 26:14-16",
+      "explanation": "Judas Iscariotes combinou entregar Jesus por trinta moedas de prata."
+    },
+    {
+      "question": "Qual foi o nome do irmão de Moisés?",
+      "options": ["Josué", "Calebe", "Arão", "Eleazar"],
+      "correct_index": 2,
+      "reference": "Êxodo 4:14",
+      "explanation": "Arão era irmão de Moisés e foi escolhido para falar em seu nome."
+    },
+    {
+      "question": "Quem foi a mulher que acompanhou Rute e voltou com ela para Belém?",
+      "options": ["Noemi", "Ester", "Débora", "Raquel"],
+      "correct_index": 0,
+      "reference": "Rute 1:16-19",
+      "explanation": "Noemi voltou para Belém acompanhada de sua nora Rute."
+    },
+    {
+      "question": "Qual era o nome do jardim onde Adão e Eva viviam?",
+      "options": ["Getsêmani", "Éden", "Carmelo", "Sinai"],
+      "correct_index": 1,
+      "reference": "Gênesis 2:8",
+      "explanation": "Deus plantou um jardim no Éden e colocou ali o homem que havia formado."
+    },
+    {
+      "question": "Quem foi escolhido para substituir Judas Iscariotes entre os apóstolos?",
+      "options": ["Barnabé", "Matias", "Silas", "Estêvão"],
+      "correct_index": 1,
+      "reference": "Atos 1:23-26",
+      "explanation": "Matias foi escolhido por sorteio para ocupar o lugar de Judas."
+    },
+    {
+      "question": "Qual era o nome do gigante derrotado por Davi?",
+      "options": ["Golias", "Balaque", "Sísera", "Ogue"],
+      "correct_index": 0,
+      "reference": "1 Samuel 17:4",
+      "explanation": "Golias era o guerreiro filisteu que desafiava o exército de Israel."
+    },
+    {
+      "question": "Quantos livros existem na Bíblia protestante?",
+      "options": ["66", "72", "73", "80"],
+      "correct_index": 0,
+      "reference": "Referência: organização do cânon bíblico protestante",
+      "explanation": "A Bíblia protestante possui 66 livros: 39 no Antigo Testamento e 27 no Novo Testamento."
+    },
+    {
+      "question": "Qual é o último livro da Bíblia?",
+      "options": ["Judas", "Hebreus", "Apocalipse", "Atos"],
+      "correct_index": 2,
+      "reference": "Apocalipse 1:1",
+      "explanation": "Apocalipse é o último livro da Bíblia e apresenta revelações recebidas por João."
+    },
+    {
+      "question": "Quem escreveu grande parte das cartas do Novo Testamento?",
+      "options": ["Pedro", "Paulo", "Lucas", "Tiago"],
+      "correct_index": 1,
+      "reference": "Romanos 1:1; Gálatas 1:1",
+      "explanation": "O apóstolo Paulo escreveu diversas cartas às primeiras comunidades cristãs."
+    },
+    {
+      "question": "Qual era o nome do pai de João Batista?",
+      "options": ["Zacarias", "José", "Simeão", "Joaquim"],
+      "correct_index": 0,
+      "reference": "Lucas 1:13",
+      "explanation": "O anjo anunciou a Zacarias que sua esposa Isabel teria um filho chamado João."
+    },
+    {
+      "question": "Quem foi ressuscitado por Jesus depois de permanecer quatro dias no túmulo?",
+      "options": ["Jairo", "Lázaro", "Estêvão", "Bartimeu"],
+      "correct_index": 1,
+      "reference": "João 11:38-44",
+      "explanation": "Jesus chamou Lázaro para fora do túmulo, depois de quatro dias de sua morte."
+    },
+    {
+      "question": "Qual discípulo caminhou sobre as águas em direção a Jesus?",
+      "options": ["João", "Pedro", "Tiago", "André"],
+      "correct_index": 1,
+      "reference": "Mateus 14:28-29",
+      "explanation": "Pedro saiu do barco e caminhou sobre as águas em direção a Jesus."
+    },
+    {
+      "question": "Em qual monte Jesus foi transfigurado diante de alguns discípulos?",
+      "options": ["Monte Sinai", "Monte das Oliveiras", "Monte da Transfiguração", "A Bíblia não identifica o nome do monte"],
+      "correct_index": 3,
+      "reference": "Mateus 17:1-2",
+      "explanation": "O relato informa que Jesus subiu a um alto monte, mas não revela seu nome."
+    },
+    {
+      "question": "Qual era o nome do primeiro filho de Adão e Eva?",
+      "options": ["Abel", "Sete", "Caim", "Enos"],
+      "correct_index": 2,
+      "reference": "Gênesis 4:1",
+      "explanation": "Eva deu à luz Caim, seu primeiro filho mencionado no relato bíblico."
+    },
+    {
+      "question": "Quem foi a mulher que escondeu os espias israelitas em Jericó?",
+      "options": ["Raabe", "Débora", "Mical", "Abigail"],
+      "correct_index": 0,
+      "reference": "Josué 2:1-6",
+      "explanation": "Raabe escondeu os espias enviados por Josué e os ajudou a escapar."
+    },
+    {
+      "question": "Qual rei mandou construir o primeiro templo em Jerusalém?",
+      "options": ["Davi", "Salomão", "Saul", "Ezequias"],
+      "correct_index": 1,
+      "reference": "1 Reis 6:1-2",
+      "explanation": "Salomão construiu o templo do Senhor em Jerusalém."
+    },
+    {
+      "question": "Qual profeta enfrentou os profetas de Baal no monte Carmelo?",
+      "options": ["Eliseu", "Elias", "Isaías", "Samuel"],
+      "correct_index": 1,
+      "reference": "1 Reis 18:19-39",
+      "explanation": "Elias desafiou os profetas de Baal e Deus respondeu enviando fogo do céu."
+    },
+    {
+      "question": "Quem foi o primeiro mártir cristão mencionado no livro de Atos?",
+      "options": ["Pedro", "Paulo", "Estêvão", "Tiago"],
+      "correct_index": 2,
+      "reference": "Atos 7:54-60",
+      "explanation": "Estêvão foi apedrejado por causa de seu testemunho sobre Jesus."
+    },
+    {
+      "question": "Qual apóstolo era irmão de Pedro?",
+      "options": ["João", "André", "Filipe", "Tomé"],
+      "correct_index": 1,
+      "reference": "Mateus 4:18",
+      "explanation": "André era irmão de Simão Pedro e também trabalhava como pescador."
+    },
+    {
+      "question": "Em qual ilha João recebeu as revelações do Apocalipse?",
+      "options": ["Creta", "Malta", "Patmos", "Chipre"],
+      "correct_index": 2,
+      "reference": "Apocalipse 1:9",
+      "explanation": "João estava na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus."
+    },
+    {
+      "question": "Qual era o nome do pai de Davi?",
+      "options": ["Jessé", "Saul", "Obede", "Boaz"],
+      "correct_index": 0,
+      "reference": "1 Samuel 16:1",
+      "explanation": "Jessé era o pai de Davi, que foi escolhido por Deus para ser rei de Israel."
+    },
+    {
+      "question": "Qual discípulo foi chamado de Cefas por Jesus?",
+      "options": ["João", "Pedro", "Tiago", "Mateus"],
+      "correct_index": 1,
+      "reference": "João 1:42",
+      "explanation": "Jesus deu a Simão o nome de Cefas, que significa Pedro."
+    },
+    {
+      "question": "Quem interpretou os sonhos do faraó no Egito?",
+      "options": ["Daniel", "José", "Moisés", "Arão"],
+      "correct_index": 1,
+      "reference": "Gênesis 41:14-30",
+      "explanation": "José interpretou os sonhos do faraó e anunciou sete anos de fartura seguidos por sete anos de fome."
+    },
+    {
+      "question": "Qual mulher julgava Israel e liderou o povo em uma batalha?",
+      "options": ["Ester", "Débora", "Rute", "Miriã"],
+      "correct_index": 1,
+      "reference": "Juízes 4:4-9",
+      "explanation": "Débora era profetisa e juíza em Israel, e orientou Baraque na batalha contra Sísera."
+    },
+    {
+      "question": "Qual era o nome do homem que ajudou Jesus a carregar a cruz?",
+      "options": ["José de Arimateia", "Simão de Cirene", "Nicodemos", "Bartimeu"],
+      "correct_index": 1,
+      "reference": "Lucas 23:26",
+      "explanation": "Os soldados obrigaram Simão de Cirene a carregar a cruz atrás de Jesus."
     }
   ]
 }
