@@ -1,0 +1,89 @@
+{
+  "title": "Quiz Bíblico",
+  "questions": [
+    {
+      "question": "Quem construiu a arca por orientação de Deus?",
+      "options": ["Abraão", "Noé", "Moisés", "Davi"],
+      "correct_index": 1,
+      "reference": "Gênesis 6:13-14",
+      "explanation": "Deus orientou Noé a construir uma arca antes do dilúvio."
+    },
+    {
+      "question": "Quem derrotou o gigante Golias?",
+      "options": ["Saul", "Jônatas", "Davi", "Samuel"],
+      "correct_index": 2,
+      "reference": "1 Samuel 17:49-50",
+      "explanation": "Davi venceu Golias usando uma funda e uma pedra."
+    },
+    {
+      "question": "Em qual cidade Jesus nasceu?",
+      "options": ["Nazaré", "Jerusalém", "Cafarnaum", "Belém"],
+      "correct_index": 3,
+      "reference": "Lucas 2:4-7",
+      "explanation": "Jesus nasceu em Belém, cidade para onde José e Maria viajaram."
+    },
+    {
+      "question": "Qual é o primeiro livro da Bíblia?",
+      "options": ["Êxodo", "Gênesis", "Levítico", "Salmos"],
+      "correct_index": 1,
+      "reference": "Gênesis 1:1",
+      "explanation": "Gênesis abre a Bíblia com o relato da criação."
+    },
+    {
+      "question": "Quem conduziu o povo de Israel para fora do Egito?",
+      "options": ["Josué", "Arão", "Moisés", "Elias"],
+      "correct_index": 2,
+      "reference": "Êxodo 3:10",
+      "explanation": "Deus chamou Moisés para conduzir os israelitas para fora do Egito."
+    },
+    {
+      "question": "Quantas vezes Pedro negou conhecer Jesus?",
+      "options": ["Uma vez", "Duas vezes", "Três vezes", "Sete vezes"],
+      "correct_index": 2,
+      "reference": "Lucas 22:54-62",
+      "explanation": "Pedro negou Jesus três vezes antes do canto do galo."
+    },
+    {
+      "question": "Que animal marinho engoliu Jonas?",
+      "options": ["Uma baleia", "Um grande peixe", "Um golfinho", "Um tubarão"],
+      "correct_index": 1,
+      "reference": "Jonas 1:17",
+      "explanation": "O texto bíblico diz que o Senhor preparou um grande peixe para engolir Jonas."
+    },
+    {
+      "question": "Qual era o nome do filho de Abraão e Sara?",
+      "options": ["Ismael", "Jacó", "Isaque", "José"],
+      "correct_index": 2,
+      "reference": "Gênesis 21:1-3",
+      "explanation": "Abraão e Sara deram ao filho prometido o nome de Isaque."
+    },
+    {
+      "question": "Para qual cidade Saulo viajava quando teve um encontro com Jesus?",
+      "options": ["Roma", "Damasco", "Jericó", "Antioquia"],
+      "correct_index": 1,
+      "reference": "Atos 9:1-6",
+      "explanation": "Saulo estava a caminho de Damasco quando uma luz do céu o cercou."
+    },
+    {
+      "question": "Onde Jesus realizou seu primeiro milagre, transformando água em vinho?",
+      "options": ["Jerusalém", "Caná da Galileia", "Belém", "Betânia"],
+      "correct_index": 1,
+      "reference": "João 2:1-11",
+      "explanation": "O primeiro sinal de Jesus aconteceu durante um casamento em Caná da Galileia."
+    },
+    {
+      "question": "Com quantos pães e peixes Jesus alimentou uma multidão de cinco mil homens?",
+      "options": ["Cinco pães e dois peixes", "Dois pães e cinco peixes", "Sete pães e três peixes", "Um pão e cinco peixes"],
+      "correct_index": 0,
+      "reference": "Mateus 14:17-21",
+      "explanation": "Os discípulos encontraram cinco pães e dois peixes, que Jesus multiplicou."
+    },
+    {
+      "question": "Qual discípulo era cobrador de impostos antes de seguir Jesus?",
+      "options": ["João", "Mateus", "André", "Tomé"],
+      "correct_index": 1,
+      "reference": "Mateus 9:9",
+      "explanation": "Jesus chamou Mateus enquanto ele estava sentado na coletoria."
+    }
+  ]
+}
