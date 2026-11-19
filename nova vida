@@ -4,7 +4,7 @@
   "logo_url": "https://i.postimg.cc/s2Km7SdH/Nova-Vida.jpg",
   "background_url": "https://i.postimg.cc/Y06dsPLh/download.png",
   "bg_tint_color": "#14151d",
-  "bg_tint_opacity": 0.90,
+  "bg_tint_opacity": 0.100,
   "live_badge_text": "Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
