@@ -11,7 +11,7 @@
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
-  "enable_recording": false,
+  "enable_recording": true,
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
