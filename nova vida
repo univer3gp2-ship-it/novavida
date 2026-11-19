@@ -11,7 +11,7 @@
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
-  "enable_recording": true,
+  "enable_recording": false,
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
@@ -20,16 +20,16 @@
   "banner_interval_ms": 5000,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
-
-"enable_tv": true,
+  "enable_tv": true,
+  "enable_chat": true,
+  "enable_biblia": true,
+  "enable_mural": true,
   "tv_url": "https://www.youtube.com/watch?v=LYsaKn8FRhc&list=PL_Q15fKxrBb4pxTp2zQm6zZU3-h4dlm05",
   "tv_label": "TV Ao Vivo",
-
   "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
   "chat_background_url": "https://i.postimg.cc/MGs2XkWM/45fb63a3a047cd09f1657a73b9f4ce30.jpg",
   "chat_bg_tint_color": "#8B5CF6",
   "chat_bg_tint_opacity": 0.00,
-
   "banners": [
     {
       "title": "CANIL DE TORRES",
@@ -56,7 +56,6 @@
       "click_url": "https://w.app/orfagatinhos"
     }
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
