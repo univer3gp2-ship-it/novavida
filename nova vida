@@ -13,7 +13,7 @@
   "text_color": "#F7F3E8",
   "icon_color": "#E9C877",
   "effect_color": "#E9C877",
-  "effect_opacity": 0.30,
+  "effect_opacity": 0.20,
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
