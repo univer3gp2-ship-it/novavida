@@ -19,7 +19,11 @@
   "enable_album_view": true,
   "banner_interval_ms": 5000,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
-  "enable_live_badge": false,
+  "enable_live_badge": true,
+
+"enable_tv": true,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
 
   "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
   "chat_background_url": "https://i.postimg.cc/MGs2XkWM/45fb63a3a047cd09f1657a73b9f4ce30.jpg",
