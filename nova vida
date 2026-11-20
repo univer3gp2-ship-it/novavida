@@ -15,7 +15,7 @@
   "effect_color": "#FFC83D",
   "effect_opacity": 0.55,
   "autoplay": true,
-  "enable_banners": true,
+  "enable_banners": false,
   "enable_social": true,
   "enable_recording": true,
   "enable_timer": true,
@@ -38,8 +38,8 @@
   "tv_label": "TV Ao Vivo",
   "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
   "chat_background_url": "https://i.postimg.cc/MGs2XkWM/45fb63a3a047cd09f1657a73b9f4ce30.jpg",
-  "chat_bg_tint_color": "#8B5CF6",
-  "chat_bg_tint_opacity": 0.00,
+  "chat_bg_tint_color": "#2A1B9A",
+  "chat_bg_tint_opacity": 0.60,
   "banners": [
     {
       "title": "CANIL DE TORRES",
