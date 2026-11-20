@@ -1,363 +1,2006 @@
-
 {
   "title": "Quiz Bíblico",
+  "round_size": 10,
   "questions": [
     {
       "question": "Quem construiu a arca por orientação de Deus?",
       "options": ["Abraão", "Noé", "Moisés", "Davi"],
       "correct_index": 1,
+      "level": "facil",
       "reference": "Gênesis 6:13-14",
-      "explanation": "Deus orientou Noé a construir uma arca antes do dilúvio."
-    },
-    {
-      "question": "Quem derrotou o gigante Golias?",
-      "options": ["Saul", "Jônatas", "Davi", "Samuel"],
-      "correct_index": 2,
-      "reference": "1 Samuel 17:49-50",
-      "explanation": "Davi venceu Golias usando uma funda e uma pedra."
-    },
-    {
-      "question": "Em qual cidade Jesus nasceu?",
-      "options": ["Nazaré", "Jerusalém", "Cafarnaum", "Belém"],
-      "correct_index": 3,
-      "reference": "Lucas 2:4-7",
-      "explanation": "Jesus nasceu em Belém, cidade para onde José e Maria viajaram."
-    },
-    {
-      "question": "Qual é o primeiro livro da Bíblia?",
-      "options": ["Êxodo", "Gênesis", "Levítico", "Salmos"],
-      "correct_index": 1,
-      "reference": "Gênesis 1:1",
-      "explanation": "Gênesis abre a Bíblia com o relato da criação."
-    },
-    {
-      "question": "Quem conduziu o povo de Israel para fora do Egito?",
-      "options": ["Josué", "Arão", "Moisés", "Elias"],
-      "correct_index": 2,
-      "reference": "Êxodo 3:10",
-      "explanation": "Deus chamou Moisés para conduzir os israelitas para fora do Egito."
-    },
-    {
-      "question": "Quantas vezes Pedro negou conhecer Jesus?",
-      "options": ["Uma vez", "Duas vezes", "Três vezes", "Sete vezes"],
-      "correct_index": 2,
-      "reference": "Lucas 22:54-62",
-      "explanation": "Pedro negou Jesus três vezes antes do canto do galo."
-    },
-    {
-      "question": "Que animal marinho engoliu Jonas?",
-      "options": ["Uma baleia", "Um grande peixe", "Um golfinho", "Um tubarão"],
-      "correct_index": 1,
-      "reference": "Jonas 1:17",
-      "explanation": "O texto bíblico diz que o Senhor preparou um grande peixe para engolir Jonas."
-    },
-    {
-      "question": "Qual era o nome do filho de Abraão e Sara?",
-      "options": ["Ismael", "Jacó", "Isaque", "José"],
-      "correct_index": 2,
-      "reference": "Gênesis 21:1-3",
-      "explanation": "Abraão e Sara deram ao filho prometido o nome de Isaque."
-    },
-    {
-      "question": "Para qual cidade Saulo viajava quando teve um encontro com Jesus?",
-      "options": ["Roma", "Damasco", "Jericó", "Antioquia"],
-      "correct_index": 1,
-      "reference": "Atos 9:1-6",
-      "explanation": "Saulo estava a caminho de Damasco quando uma luz do céu o cercou."
-    },
-    {
-      "question": "Onde Jesus realizou seu primeiro milagre, transformando água em vinho?",
-      "options": ["Jerusalém", "Caná da Galileia", "Belém", "Betânia"],
-      "correct_index": 1,
-      "reference": "João 2:1-11",
-      "explanation": "O primeiro sinal de Jesus aconteceu durante um casamento em Caná da Galileia."
-    },
-    {
-      "question": "Com quantos pães e peixes Jesus alimentou uma multidão de cinco mil homens?",
-      "options": ["Cinco pães e dois peixes", "Dois pães e cinco peixes", "Sete pães e três peixes", "Um pão e cinco peixes"],
-      "correct_index": 0,
-      "reference": "Mateus 14:17-21",
-      "explanation": "Os discípulos encontraram cinco pães e dois peixes, que Jesus multiplicou."
-    },
-    {
-      "question": "Qual discípulo era cobrador de impostos antes de seguir Jesus?",
-      "options": ["João", "Mateus", "André", "Tomé"],
-      "correct_index": 1,
-      "reference": "Mateus 9:9",
-      "explanation": "Jesus chamou Mateus enquanto ele estava sentado na coletoria."
-    },
-    {
-      "question": "Quem foi lançado na cova dos leões?",
-      "options": ["Daniel", "José", "Ezequiel", "Jeremias"],
-      "correct_index": 0,
-      "reference": "Daniel 6:16-23",
-      "explanation": "Daniel foi lançado na cova dos leões por continuar orando a Deus."
+      "explanation": "Noé construiu a arca conforme as instruções que recebeu de Deus."
     },
     {
       "question": "Quem foi o primeiro homem criado por Deus?",
-      "options": ["Abel", "Adão", "Caim", "Enoque"],
-      "correct_index": 1,
+      "options": ["Adão", "Abel", "Enoque", "Noé"],
+      "correct_index": 0,
+      "level": "facil",
       "reference": "Gênesis 2:7",
-      "explanation": "Deus formou Adão do pó da terra e soprou em suas narinas o fôlego de vida."
+      "explanation": "Deus formou Adão do pó da terra e soprou nele o fôlego de vida."
     },
     {
-      "question": "Qual era o nome da esposa de Adão?",
+      "question": "Quem foi a primeira mulher criada por Deus?",
       "options": ["Sara", "Rebeca", "Eva", "Raquel"],
       "correct_index": 2,
-      "reference": "Gênesis 3:20",
-      "explanation": "Adão deu à sua esposa o nome de Eva."
+      "level": "facil",
+      "reference": "Gênesis 2:22",
+      "explanation": "Eva foi formada por Deus a partir de uma costela de Adão."
     },
     {
-      "question": "Quem recebeu os Dez Mandamentos de Deus no monte Sinai?",
-      "options": ["Josué", "Arão", "Moisés", "Calebe"],
+      "question": "Quantos dias Deus levou para criar os céus e a terra?",
+      "options": ["Quatro", "Sete", "Oito", "Seis"],
+      "correct_index": 3,
+      "level": "facil",
+      "reference": "Gênesis 1:31-2:2",
+      "explanation": "Deus realizou sua obra criadora em seis dias e descansou no sétimo."
+    },
+    {
+      "question": "Quem derrotou o gigante Golias?",
+      "options": ["Saul", "Davi", "Salomão", "Jônatas"],
+      "correct_index": 1,
+      "level": "facil",
+      "reference": "1 Samuel 17:49-50",
+      "explanation": "Davi derrotou Golias usando uma funda e uma pedra."
+    },
+    {
+      "question": "Qual era o nome do irmão de Moisés?",
+      "options": ["Josué", "Calebe", "Arão", "Eleazar"],
       "correct_index": 2,
-      "reference": "Êxodo 31:18",
-      "explanation": "Deus entregou a Moisés as duas tábuas do testemunho."
+      "level": "facil",
+      "reference": "Êxodo 4:14",
+      "explanation": "Arão era irmão de Moisés e foi escolhido para ajudá-lo."
     },
     {
-      "question": "Quem foi vendido pelos próprios irmãos como escravo?",
-      "options": ["Benjamim", "José", "Rúben", "Judá"],
-      "correct_index": 1,
-      "reference": "Gênesis 37:28",
-      "explanation": "Os irmãos de José o venderam a mercadores que o levaram para o Egito."
-    },
-    {
-      "question": "Qual mulher se tornou rainha e salvou o povo judeu?",
-      "options": ["Rute", "Ester", "Débora", "Miriã"],
-      "correct_index": 1,
-      "reference": "Ester 4:14-16",
-      "explanation": "Ester arriscou sua vida para interceder pelo povo judeu diante do rei."
-    },
-    {
-      "question": "Quem foi conhecido por sua grande força e cabelos compridos?",
-      "options": ["Sansão", "Saul", "Gideão", "Salomão"],
+      "question": "Quem recebeu os Dez Mandamentos no monte Sinai?",
+      "options": ["Moisés", "Josué", "Arão", "Samuel"],
       "correct_index": 0,
-      "reference": "Juízes 16:17",
-      "explanation": "Sansão revelou a Dalila que seu cabelo nunca havia sido cortado."
+      "level": "facil",
+      "reference": "Êxodo 31:18",
+      "explanation": "Moisés recebeu de Deus as tábuas do testemunho."
     },
     {
-      "question": "Quem foi o homem mais sábio que pediu sabedoria a Deus?",
-      "options": ["Davi", "Salomão", "Moisés", "Elias"],
-      "correct_index": 1,
-      "reference": "1 Reis 3:9-12",
-      "explanation": "Salomão pediu entendimento para governar o povo, e Deus lhe concedeu grande sabedoria."
-    },
-    {
-      "question": "Qual profeta foi levado ao céu em um redemoinho?",
-      "options": ["Isaías", "Eliseu", "Elias", "Jeremias"],
-      "correct_index": 2,
-      "reference": "2 Reis 2:11",
-      "explanation": "Elias foi levado ao céu em um redemoinho, acompanhado de carros e cavalos de fogo."
-    },
-    {
-      "question": "Quem era a mãe de Jesus?",
-      "options": ["Marta", "Maria", "Isabel", "Ana"],
-      "correct_index": 1,
+      "question": "Qual era o nome da mãe de Jesus?",
+      "options": ["Marta", "Isabel", "Ana", "Maria"],
+      "correct_index": 3,
+      "level": "facil",
       "reference": "Lucas 1:30-31",
       "explanation": "O anjo Gabriel anunciou a Maria que ela daria à luz Jesus."
     },
     {
-      "question": "Qual era a profissão de Pedro antes de seguir Jesus?",
-      "options": ["Carpinteiro", "Pescador", "Agricultor", "Soldado"],
+      "question": "Em qual cidade Jesus nasceu?",
+      "options": ["Nazaré", "Belém", "Jerusalém", "Cafarnaum"],
       "correct_index": 1,
-      "reference": "Mateus 4:18-20",
-      "explanation": "Pedro era pescador quando Jesus o chamou para ser pescador de homens."
+      "level": "facil",
+      "reference": "Mateus 2:1",
+      "explanation": "Jesus nasceu em Belém da Judeia."
     },
     {
-      "question": "Quem batizou Jesus no rio Jordão?",
-      "options": ["Pedro", "João Batista", "Tiago", "André"],
-      "correct_index": 1,
-      "reference": "Mateus 3:13-17",
-      "explanation": "João Batista batizou Jesus nas águas do rio Jordão."
+      "question": "Quem batizou Jesus?",
+      "options": ["Pedro", "Tiago", "João Batista", "André"],
+      "correct_index": 2,
+      "level": "facil",
+      "reference": "Mateus 3:13-16",
+      "explanation": "João Batista batizou Jesus no rio Jordão."
     },
     {
-      "question": "Durante quantos dias e noites Jesus jejuou no deserto?",
-      "options": ["7 dias", "12 dias", "30 dias", "40 dias"],
-      "correct_index": 3,
-      "reference": "Mateus 4:1-2",
-      "explanation": "Jesus jejuou quarenta dias e quarenta noites no deserto."
-    },
-    {
-      "question": "Qual discípulo duvidou da ressurreição de Jesus até vê-lo?",
-      "options": ["Tomé", "Pedro", "Filipe", "Judas"],
+      "question": "Quantos apóstolos Jesus escolheu?",
+      "options": ["Doze", "Dez", "Sete", "Quinze"],
       "correct_index": 0,
-      "reference": "João 20:24-29",
-      "explanation": "Tomé queria ver as marcas dos cravos antes de acreditar que Jesus havia ressuscitado."
+      "level": "facil",
+      "reference": "Lucas 6:13",
+      "explanation": "Jesus escolheu doze discípulos e os chamou de apóstolos."
     },
     {
       "question": "Quem traiu Jesus por trinta moedas de prata?",
-      "options": ["Pedro", "Judas Iscariotes", "João", "Mateus"],
-      "correct_index": 1,
+      "options": ["Pedro", "Tomé", "João", "Judas Iscariotes"],
+      "correct_index": 3,
+      "level": "facil",
       "reference": "Mateus 26:14-16",
-      "explanation": "Judas Iscariotes combinou entregar Jesus por trinta moedas de prata."
+      "explanation": "Judas Iscariotes entregou Jesus em troca de trinta moedas de prata."
     },
     {
-      "question": "Qual foi o nome do irmão de Moisés?",
-      "options": ["Josué", "Calebe", "Arão", "Eleazar"],
+      "question": "Quem negou Jesus três vezes?",
+      "options": ["João", "Pedro", "Tomé", "André"],
+      "correct_index": 1,
+      "level": "facil",
+      "reference": "Lucas 22:61-62",
+      "explanation": "Pedro negou conhecer Jesus três vezes antes do galo cantar."
+    },
+    {
+      "question": "Qual discípulo duvidou da ressurreição de Jesus até vê-lo?",
+      "options": ["Filipe", "Mateus", "Tomé", "Bartolomeu"],
       "correct_index": 2,
-      "reference": "Êxodo 4:14",
-      "explanation": "Arão era irmão de Moisés e foi escolhido para falar em seu nome."
+      "level": "facil",
+      "reference": "João 20:24-29",
+      "explanation": "Tomé precisou ver Jesus ressuscitado para acreditar."
     },
     {
-      "question": "Quem foi a mulher que acompanhou Rute e voltou com ela para Belém?",
-      "options": ["Noemi", "Ester", "Débora", "Raquel"],
+      "question": "Quem foi lançado na cova dos leões?",
+      "options": ["Daniel", "Elias", "Eliseu", "Jeremias"],
       "correct_index": 0,
-      "reference": "Rute 1:16-19",
-      "explanation": "Noemi voltou para Belém acompanhada de sua nora Rute."
+      "level": "facil",
+      "reference": "Daniel 6:16-23",
+      "explanation": "Daniel foi lançado na cova, mas Deus fechou a boca dos leões."
+    },
+    {
+      "question": "Quem foi engolido por um grande peixe?",
+      "options": ["Elias", "Moisés", "Ezequiel", "Jonas"],
+      "correct_index": 3,
+      "level": "facil",
+      "reference": "Jonas 1:17",
+      "explanation": "Jonas permaneceu três dias e três noites dentro do grande peixe."
+    },
+    {
+      "question": "Qual rei pediu sabedoria a Deus?",
+      "options": ["Saul", "Salomão", "Davi", "Ezequias"],
+      "correct_index": 1,
+      "level": "facil",
+      "reference": "1 Reis 3:9-12",
+      "explanation": "Salomão pediu sabedoria para governar o povo de Deus."
+    },
+    {
+      "question": "Quem foi vendido pelos próprios irmãos como escravo?",
+      "options": ["Isaque", "Jacó", "José", "Benjamim"],
+      "correct_index": 2,
+      "level": "facil",
+      "reference": "Gênesis 37:28",
+      "explanation": "Os irmãos de José o venderam a mercadores ismaelitas."
+    },
+    {
+      "question": "Qual foi o primeiro milagre de Jesus registrado no Evangelho de João?",
+      "options": ["Transformar água em vinho", "Curar um cego", "Multiplicar pães", "Ressuscitar Lázaro"],
+      "correct_index": 0,
+      "level": "facil",
+      "reference": "João 2:1-11",
+      "explanation": "Jesus transformou água em vinho durante um casamento em Caná."
+    },
+    {
+      "question": "Quem recebeu a visita do anjo Gabriel anunciando o nascimento de João Batista?",
+      "options": ["José", "Abraão", "Simeão", "Zacarias"],
+      "correct_index": 3,
+      "level": "facil",
+      "reference": "Lucas 1:11-13",
+      "explanation": "Zacarias recebeu o anúncio de que sua esposa Isabel teria um filho."
     },
     {
       "question": "Qual era o nome do jardim onde Adão e Eva viviam?",
       "options": ["Getsêmani", "Éden", "Carmelo", "Sinai"],
       "correct_index": 1,
+      "level": "medio",
       "reference": "Gênesis 2:8",
-      "explanation": "Deus plantou um jardim no Éden e colocou ali o homem que havia formado."
+      "explanation": "Deus colocou Adão no jardim do Éden."
     },
     {
       "question": "Quem foi escolhido para substituir Judas Iscariotes entre os apóstolos?",
-      "options": ["Barnabé", "Matias", "Silas", "Estêvão"],
-      "correct_index": 1,
-      "reference": "Atos 1:23-26",
+      "options": ["Barnabé", "Silas", "Matias", "Estêvão"],
+      "correct_index": 2,
+      "level": "medio",
+      "reference": "Atos 1:26",
       "explanation": "Matias foi escolhido por sorteio para ocupar o lugar de Judas."
     },
     {
-      "question": "Qual era o nome do gigante derrotado por Davi?",
-      "options": ["Golias", "Balaque", "Sísera", "Ogue"],
-      "correct_index": 0,
-      "reference": "1 Samuel 17:4",
-      "explanation": "Golias era o guerreiro filisteu que desafiava o exército de Israel."
-    },
-    {
-      "question": "Quantos livros existem na Bíblia protestante?",
-      "options": ["66", "72", "73", "80"],
-      "correct_index": 0,
-      "reference": "Referência: organização do cânon bíblico protestante",
-      "explanation": "A Bíblia protestante possui 66 livros: 39 no Antigo Testamento e 27 no Novo Testamento."
-    },
-    {
-      "question": "Qual é o último livro da Bíblia?",
-      "options": ["Judas", "Hebreus", "Apocalipse", "Atos"],
-      "correct_index": 2,
-      "reference": "Apocalipse 1:1",
-      "explanation": "Apocalipse é o último livro da Bíblia e apresenta revelações recebidas por João."
-    },
-    {
-      "question": "Quem escreveu grande parte das cartas do Novo Testamento?",
-      "options": ["Pedro", "Paulo", "Lucas", "Tiago"],
-      "correct_index": 1,
-      "reference": "Romanos 1:1; Gálatas 1:1",
-      "explanation": "O apóstolo Paulo escreveu diversas cartas às primeiras comunidades cristãs."
-    },
-    {
       "question": "Qual era o nome do pai de João Batista?",
-      "options": ["Zacarias", "José", "Simeão", "Joaquim"],
+      "options": ["Zacarias", "Simeão", "José", "Anás"],
       "correct_index": 0,
+      "level": "medio",
       "reference": "Lucas 1:13",
-      "explanation": "O anjo anunciou a Zacarias que sua esposa Isabel teria um filho chamado João."
-    },
-    {
-      "question": "Quem foi ressuscitado por Jesus depois de permanecer quatro dias no túmulo?",
-      "options": ["Jairo", "Lázaro", "Estêvão", "Bartimeu"],
-      "correct_index": 1,
-      "reference": "João 11:38-44",
-      "explanation": "Jesus chamou Lázaro para fora do túmulo, depois de quatro dias de sua morte."
-    },
-    {
-      "question": "Qual discípulo caminhou sobre as águas em direção a Jesus?",
-      "options": ["João", "Pedro", "Tiago", "André"],
-      "correct_index": 1,
-      "reference": "Mateus 14:28-29",
-      "explanation": "Pedro saiu do barco e caminhou sobre as águas em direção a Jesus."
-    },
-    {
-      "question": "Em qual monte Jesus foi transfigurado diante de alguns discípulos?",
-      "options": ["Monte Sinai", "Monte das Oliveiras", "Monte da Transfiguração", "A Bíblia não identifica o nome do monte"],
-      "correct_index": 3,
-      "reference": "Mateus 17:1-2",
-      "explanation": "O relato informa que Jesus subiu a um alto monte, mas não revela seu nome."
-    },
-    {
-      "question": "Qual era o nome do primeiro filho de Adão e Eva?",
-      "options": ["Abel", "Sete", "Caim", "Enos"],
-      "correct_index": 2,
-      "reference": "Gênesis 4:1",
-      "explanation": "Eva deu à luz Caim, seu primeiro filho mencionado no relato bíblico."
-    },
-    {
-      "question": "Quem foi a mulher que escondeu os espias israelitas em Jericó?",
-      "options": ["Raabe", "Débora", "Mical", "Abigail"],
-      "correct_index": 0,
-      "reference": "Josué 2:1-6",
-      "explanation": "Raabe escondeu os espias enviados por Josué e os ajudou a escapar."
-    },
-    {
-      "question": "Qual rei mandou construir o primeiro templo em Jerusalém?",
-      "options": ["Davi", "Salomão", "Saul", "Ezequias"],
-      "correct_index": 1,
-      "reference": "1 Reis 6:1-2",
-      "explanation": "Salomão construiu o templo do Senhor em Jerusalém."
-    },
-    {
-      "question": "Qual profeta enfrentou os profetas de Baal no monte Carmelo?",
-      "options": ["Eliseu", "Elias", "Isaías", "Samuel"],
-      "correct_index": 1,
-      "reference": "1 Reis 18:19-39",
-      "explanation": "Elias desafiou os profetas de Baal e Deus respondeu enviando fogo do céu."
-    },
-    {
-      "question": "Quem foi o primeiro mártir cristão mencionado no livro de Atos?",
-      "options": ["Pedro", "Paulo", "Estêvão", "Tiago"],
-      "correct_index": 2,
-      "reference": "Atos 7:54-60",
-      "explanation": "Estêvão foi apedrejado por causa de seu testemunho sobre Jesus."
-    },
-    {
-      "question": "Qual apóstolo era irmão de Pedro?",
-      "options": ["João", "André", "Filipe", "Tomé"],
-      "correct_index": 1,
-      "reference": "Mateus 4:18",
-      "explanation": "André era irmão de Simão Pedro e também trabalhava como pescador."
-    },
-    {
-      "question": "Em qual ilha João recebeu as revelações do Apocalipse?",
-      "options": ["Creta", "Malta", "Patmos", "Chipre"],
-      "correct_index": 2,
-      "reference": "Apocalipse 1:9",
-      "explanation": "João estava na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus."
-    },
-    {
-      "question": "Qual era o nome do pai de Davi?",
-      "options": ["Jessé", "Saul", "Obede", "Boaz"],
-      "correct_index": 0,
-      "reference": "1 Samuel 16:1",
-      "explanation": "Jessé era o pai de Davi, que foi escolhido por Deus para ser rei de Israel."
-    },
-    {
-      "question": "Qual discípulo foi chamado de Cefas por Jesus?",
-      "options": ["João", "Pedro", "Tiago", "Mateus"],
-      "correct_index": 1,
-      "reference": "João 1:42",
-      "explanation": "Jesus deu a Simão o nome de Cefas, que significa Pedro."
+      "explanation": "Zacarias era sacerdote e pai de João Batista."
     },
     {
       "question": "Quem interpretou os sonhos do faraó no Egito?",
-      "options": ["Daniel", "José", "Moisés", "Arão"],
-      "correct_index": 1,
-      "reference": "Gênesis 41:14-30",
-      "explanation": "José interpretou os sonhos do faraó e anunciou sete anos de fartura seguidos por sete anos de fome."
+      "options": ["Moisés", "Arão", "Daniel", "José"],
+      "correct_index": 3,
+      "level": "medio",
+      "reference": "Gênesis 41:15-16",
+      "explanation": "José interpretou os sonhos do faraó com a ajuda de Deus."
     },
     {
-      "question": "Qual mulher julgava Israel e liderou o povo em uma batalha?",
-      "options": ["Ester", "Débora", "Rute", "Miriã"],
+      "question": "Qual profeta enfrentou os profetas de Baal no monte Carmelo?",
+      "options": ["Eliseu", "Elias", "Isaías", "Jeremias"],
       "correct_index": 1,
-      "reference": "Juízes 4:4-9",
-      "explanation": "Débora era profetisa e juíza em Israel, e orientou Baraque na batalha contra Sísera."
+      "level": "medio",
+      "reference": "1 Reis 18:19-40",
+      "explanation": "Elias desafiou os profetas de Baal e Deus respondeu com fogo."
     },
     {
-      "question": "Qual era o nome do homem que ajudou Jesus a carregar a cruz?",
-      "options": ["José de Arimateia", "Simão de Cirene", "Nicodemos", "Bartimeu"],
+      "question": "Qual mulher escondeu os espias israelitas em Jericó?",
+      "options": ["Débora", "Rute", "Raabe", "Jael"],
+      "correct_index": 2,
+      "level": "medio",
+      "reference": "Josué 2:1-6",
+      "explanation": "Raabe escondeu os espias e ajudou na missão em Jericó."
+    },
+    {
+      "question": "Qual juiz de Israel tinha uma força extraordinária relacionada ao seu cabelo?",
+      "options": ["Sansão", "Gideão", "Jefté", "Otniel"],
+      "correct_index": 0,
+      "level": "medio",
+      "reference": "Juízes 16:17",
+      "explanation": "Sansão revelou que seu cabelo nunca havia sido cortado como parte de seu voto a Deus."
+    },
+    {
+      "question": "Quem foi a sogra de Rute?",
+      "options": ["Raquel", "Sara", "Rebeca", "Noemi"],
+      "correct_index": 3,
+      "level": "medio",
+      "reference": "Rute 1:3-4",
+      "explanation": "Noemi era sogra de Rute e voltou com ela para Belém."
+    },
+    {
+      "question": "Qual apóstolo era cobrador de impostos antes de seguir Jesus?",
+      "options": ["Pedro", "Mateus", "João", "Tiago"],
       "correct_index": 1,
-      "reference": "Lucas 23:26",
-      "explanation": "Os soldados obrigaram Simão de Cirene a carregar a cruz atrás de Jesus."
-    }
-  ]
-}
+      "level": "medio",
+      "reference": "Mateus 9:9",
+      "explanation": "Mateus trabalhava na coletoria quando Jesus o chamou."
+    },
+    {
+      "question": "Em qual ilha João recebeu as revelações do Apocalipse?",
+      "options": ["Creta", "Chipre", "Patmos", "Malta"],
+      "correct_index": 2,
+      "level": "medio",
+      "reference": "Apocalipse 1:9",
+      "explanation": "João estava na ilha de Patmos por causa da palavra de Deus."
+    },
+    {
+      "question": "Quem foi o primeiro mártir cristão mencionado no livro de Atos?",
+      "options": ["Estêvão", "Tiago", "Barnabé", "Filipe"],
+      "correct_index": 0,
+      "level": "medio",
+      "reference": "Atos 7:59-60",
+      "explanation": "Estêvão foi apedrejado por causa de seu testemunho sobre Jesus."
+    },
+    {
+      "question": "Qual profeta foi levado ao céu em um redemoinho?",
+      "options": ["Isaías", "Ezequiel", "Samuel", "Elias"],
+      "correct_index": 3,
+      "level": "medio",
+      "reference": "2 Reis 2:11",
+      "explanation": "Elias foi levado ao céu em um redemoinho."
+    },
+    {
+      "question": "Quem era o irmão de Marta e Maria que Jesus ressuscitou?",
+      "options": ["Simão", "Lázaro", "Filipe", "Nicodemos"],
+      "correct_index": 1,
+      "level": "medio",
+      "reference": "João 11:43-44",
+      "explanation": "Jesus chamou Lázaro para fora do túmulo depois de quatro dias."
+    },
+    {
+      "question": "Qual mulher julgava Israel debaixo de uma palmeira?",
+      "options": ["Ester", "Rute", "Débora", "Miriã"],
+      "correct_index": 2,
+      "level": "medio",
+      "reference": "Juízes 4:4-5",
+      "explanation": "Débora era profetisa e julgava Israel debaixo da palmeira."
+    },
+    {
+      "question": "Quem foi o pai de João Marcos, mencionado no livro de Atos?",
+      "options": ["O livro não informa o nome do pai de João Marcos", "Pedro", "Barnabé", "Silas"],
+      "correct_index": 0,
+      "level": "medio",
+      "reference": "Atos 12:12",
+      "explanation": "O texto identifica Maria como mãe de João Marcos, mas não informa o nome do pai."
+    },
+    {
+      "question": "Qual era a profissão de Paulo antes de se dedicar às viagens missionárias?",
+      "options": ["Pescador", "Carpinteiro", "Cobrador de impostos", "Fabricante de tendas"],
+      "correct_index": 3,
+      "level": "medio",
+      "reference": "Atos 18:3",
+      "explanation": "Paulo trabalhava na fabricação de tendas."
+    },
+    {
+      "question": "Quem foi o rei que mandou lançar Sadraque, Mesaque e Abede-Nego na fornalha?",
+      "options": ["Dario", "Nabucodonosor", "Ciro", "Belsazar"],
+      "correct_index": 1,
+      "level": "medio",
+      "reference": "Daniel 3:19-21",
+      "explanation": "Nabucodonosor ordenou que os três fossem lançados na fornalha ardente."
+    },
+    {
+      "question": "Qual era o nome do pai de Samuel?",
+      "options": ["Boaz", "Elcana", "Abner", "Eli"],
+      "correct_index": 2,
+      "level": "medio",
+      "reference": "1 Samuel 1:1-2",
+      "explanation": "Elcana era pai de Samuel e marido de Ana."
+    },
+    {
+      "question": "Quem escreveu a maior parte das cartas do Novo Testamento?",
+      "options": ["Paulo", "Pedro", "João", "Lucas"],
+      "correct_index": 0,
+      "level": "medio",
+      "reference": "Romanos 1:1",
+      "explanation": "Paulo escreveu a maior quantidade de cartas do Novo Testamento."
+    },
+    {
+      "question": "Qual rei teve sua vida prolongada em quinze anos depois de orar a Deus?",
+      "options": ["Josias", "Acabe", "Salomão", "Ezequias"],
+      "correct_index": 3,
+      "level": "medio",
+      "reference": "2 Reis 20:1-6",
+      "explanation": "Deus ouviu a oração de Ezequias e acrescentou quinze anos à sua vida."
+    },
+    {
+      "question": "Quem foi o homem que encontrou Jesus no caminho de Damasco e teve sua visão restaurada?",
+      "options": ["Ananias", "Saulo", "Barnabé", "Silas"],
+      "correct_index": 1,
+      "level": "dificil",
+      "reference": "Atos 9:3-18",
+      "explanation": "Saulo encontrou Jesus no caminho de Damasco e depois recuperou a visão com a ajuda de Ananias."
+    },
+    {
+      "question": "Qual era o nome do servo do sumo sacerdote cuja orelha Pedro cortou?",
+      "options": ["Malco", "Bartimeu", "Jairo", "Tíquico"],
+      "correct_index": 0,
+      "level": "dificil",
+      "reference": "João 18:10",
+      "explanation": "Pedro cortou a orelha direita de Malco durante a prisão de Jesus."
+    },
+    {
+      "question": "Qual profeta recebeu a ordem de casar com uma mulher chamada Gômer?",
+      "options": ["Amós", "Miqueias", "Oseias", "Naum"],
+      "correct_index": 2,
+      "level": "dificil",
+      "reference": "Oseias 1:2-3",
+      "explanation": "Deus ordenou que Oseias se casasse com Gômer como sinal profético."
+    },
+    {
+      "question": "Qual era o nome do pai de Bezalel, artesão responsável por trabalhos do tabernáculo?",
+      "options": ["Aoliabe", "Hur", "Uri", "Eleazar"],
+      "correct_index": 2,
+      "level": "dificil",
+      "reference": "Êxodo 31:2",
+      "explanation": "Bezalel era filho de Uri, da tribo de Judá."
+    },
+    {
+      "question": "Qual profeta viu um vale cheio de ossos secos que voltaram à vida?",
+      "options": ["Jeremias", "Daniel", "Isaías", "Ezequiel"],
+      "correct_index": 3,
+      "level": "dificil",
+      "reference": "Ezequiel 37:1-10",
+      "explanation": "Ezequiel recebeu a visão dos ossos secos como símbolo da restauração de Israel."
+    },
+    {
+      "question": "Quem era o rei de Salém que abençoou Abraão?",
+      "options": ["Melquisedeque", "Abimeleque", "Faraó", "Balaque"],
+      "correct_index": 0,
+      "level": "dificil",
+      "reference": "Gênesis 14:18-20",
+      "explanation": "Melquisedeque era rei de Salém e sacerdote do Deus Altíssimo."
+    },
+    {
+      "question": "Qual era o nome do avô de Timóteo mencionado por Paulo?",
+      "options": ["Ló", "Labão", "Naor", "O nome não é mencionado"],
+      "correct_index": 3,
+      "level": "dificil",
+      "reference": "2 Timóteo 1:5",
+      "explanation": "Paulo menciona a mãe Eunice e a avó Loide, mas não identifica o avô."
+    },
+    {
+      "question": "Qual profeta foi chamado ainda menino enquanto servia no templo sob a orientação de Eli?",
+      "options": ["Jeremias", "Samuel", "Isaías", "Ezequiel"],
+      "correct_index": 1,
+      "level": "dificil",
+      "reference": "1 Samuel 3:1-10",
+      "explanation": "Samuel ouviu a voz de Deus quando ainda era menino e servia junto de Eli."
+    },
+    {
+      "question": "Quem foi o homem que Paulo deixou doente em Mileto, conforme sua própria carta?",
+      "options": ["Trofimo", "Trófimo não foi deixado em Mileto", "Epafrodito", "Timóteo"],
+      "correct_index": 1,
+      "level": "dificil",
+      "reference": "2 Timóteo 4:20",
+      "explanation": "Paulo informou que deixou Trófimo doente em Mileto."
+    },
+
+  {
+    "question": "Quem foi escolhido por Deus para liderar os israelitas depois da morte de Moisés?",
+    "options": ["Calebe", "Josué", "Arão", "Gideão"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Josué 1:1-2",
+    "explanation": "Josué recebeu a missão de conduzir o povo de Israel à Terra Prometida."
+  },
+  {
+    "question": "Qual era o nome do filho de Abraão com Sara?",
+    "options": ["Ismael", "Esaú", "Isaque", "Jacó"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Gênesis 21:1-3",
+    "explanation": "Isaque nasceu conforme a promessa que Deus havia feito a Abraão e Sara."
+  },
+  {
+    "question": "Quem foi lançado em uma cova por causa de sua fé em Deus?",
+    "options": ["Daniel", "José", "Jeremias", "Elias"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Daniel 6:16",
+    "explanation": "Daniel foi lançado na cova dos leões por continuar orando a Deus."
+  },
+  {
+    "question": "Qual animal falou com Balaão durante sua viagem?",
+    "options": ["Camelo", "Leão", "Cavalo", "Jumenta"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Números 22:28",
+    "explanation": "Deus abriu a boca da jumenta para falar com Balaão."
+  },
+  {
+    "question": "Quem era o pai de Salomão?",
+    "options": ["Saul", "Davi", "Samuel", "Jônatas"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "2 Samuel 12:24",
+    "explanation": "Salomão era filho do rei Davi com Bate-Seba."
+  },
+  {
+    "question": "Qual discípulo era conhecido como o discípulo amado?",
+    "options": ["Pedro", "André", "João", "Filipe"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "João 21:20",
+    "explanation": "O Evangelho de João identifica um discípulo como aquele a quem Jesus amava."
+  },
+  {
+    "question": "Quantos dias e noites choveu durante o dilúvio?",
+    "options": ["Quarenta", "Sete", "Trinta", "Cinquenta"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 7:12",
+    "explanation": "A chuva caiu sobre a terra durante quarenta dias e quarenta noites."
+  },
+  {
+    "question": "Qual era o nome da esposa de Abraão?",
+    "options": ["Rebeca", "Raquel", "Lia", "Sara"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 17:15",
+    "explanation": "Sara era esposa de Abraão e mãe de Isaque."
+  },
+  {
+    "question": "Quem recebeu as tábuas dos Dez Mandamentos?",
+    "options": ["Josué", "Moisés", "Arão", "Calebe"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Êxodo 31:18",
+    "explanation": "Deus entregou as tábuas da aliança a Moisés no monte Sinai."
+  },
+  {
+    "question": "Qual era o nome do irmão de Jacó?",
+    "options": ["José", "Isaque", "Esaú", "Ismael"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Gênesis 25:24-26",
+    "explanation": "Esaú era irmão gêmeo de Jacó."
+  },
+  {
+    "question": "Quem foi a mulher que se tornou rainha e salvou seu povo da destruição?",
+    "options": ["Ester", "Rute", "Débora", "Abigail"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Ester 7:3-4",
+    "explanation": "Ester intercedeu diante do rei para salvar os judeus."
+  },
+  {
+    "question": "Qual era o nome do gigante derrotado por Davi?",
+    "options": ["Absalão", "Golias", "Benaia", "Goliatã"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "1 Samuel 17:4-50",
+    "explanation": "Davi derrotou o guerreiro filisteu Golias com uma pedra e uma funda."
+  },
+  {
+    "question": "Quem foi o homem que subiu em uma árvore para ver Jesus?",
+    "options": ["Nicodemos", "Bartimeu", "Zaqueu", "Jairo"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Lucas 19:2-4",
+    "explanation": "Zaqueu subiu em um sicômoro porque era pequeno e queria ver Jesus."
+  },
+  {
+    "question": "Qual era o nome do mar que os israelitas atravessaram durante o êxodo?",
+    "options": ["Mar Morto", "Mar da Galileia", "Mar Mediterrâneo", "Mar Vermelho"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Êxodo 14:21-22",
+    "explanation": "Deus abriu o Mar Vermelho para permitir a passagem dos israelitas."
+  },
+  {
+    "question": "Quem foi o homem que recebeu uma túnica colorida de seu pai?",
+    "options": ["José", "Benjamim", "Rúben", "Judá"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 37:3",
+    "explanation": "Jacó presenteou José com uma túnica especial por ser seu filho amado."
+  },
+  {
+    "question": "Qual era o nome do gigante que vivia em Gate e enfrentou os israelitas?",
+    "options": ["Saul", "Golias", "Abner", "Sansão"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "1 Samuel 17:4",
+    "explanation": "Golias era um guerreiro filisteu da cidade de Gate."
+  },
+  {
+    "question": "Quem foi a mãe de Samuel?",
+    "options": ["Isabel", "Miriã", "Ana", "Sara"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "1 Samuel 1:20",
+    "explanation": "Ana recebeu de Deus a bênção de ter Samuel depois de orar."
+  },
+  {
+    "question": "Em qual cidade os discípulos foram chamados cristãos pela primeira vez?",
+    "options": ["Jerusalém", "Roma", "Éfeso", "Antioquia"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Atos 11:26",
+    "explanation": "Foi em Antioquia que os discípulos receberam pela primeira vez o nome de cristãos."
+  },
+  {
+    "question": "Qual era o nome do pai de Isaque?",
+    "options": ["Abraão", "Jacó", "Noé", "Ló"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 21:3",
+    "explanation": "Abraão foi o pai de Isaque, filho da promessa."
+  },
+  {
+    "question": "Quem foi o homem que construiu o primeiro templo de Jerusalém?",
+    "options": ["Davi", "Salomão", "Saul", "Ezequias"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "1 Reis 6:1",
+    "explanation": "Salomão construiu o templo em Jerusalém durante seu reinado."
+  },
+  {
+    "question": "Qual era o nome do irmão de Marta e Maria?",
+    "options": ["Judas", "Tiago", "Lázaro", "João"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "João 11:1-2",
+    "explanation": "Lázaro morava em Betânia com suas irmãs Marta e Maria."
+  },
+  {
+    "question": "Qual profeta foi alimentado por corvos durante um período de seca?",
+    "options": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "1 Reis 17:2-6",
+    "explanation": "Deus ordenou que corvos levassem alimento a Elias junto ao ribeiro de Querite."
+  },
+  {
+    "question": "Quem era o comandante do exército de Israel que venceu os midianitas com apenas trezentos homens?",
+    "options": ["Jefté", "Sansão", "Baruque", "Gideão"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Juízes 7:7",
+    "explanation": "Gideão venceu os midianitas com um exército reduzido a trezentos homens."
+  },
+  {
+    "question": "Qual era o nome do homem que ajudou Jesus a carregar a cruz?",
+    "options": ["José de Arimateia", "Simão Cireneu", "Nicodemos", "Bartimeu"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Lucas 23:26",
+    "explanation": "Simão Cireneu foi obrigado a carregar a cruz atrás de Jesus."
+  },
+  {
+    "question": "Qual apóstolo foi chamado de Cefas por Jesus?",
+    "options": ["João", "Tiago", "Pedro", "André"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "João 1:42",
+    "explanation": "Jesus deu a Simão o nome de Cefas, que significa Pedro."
+  },
+  {
+    "question": "Qual era o nome do governador romano que autorizou a crucificação de Jesus?",
+    "options": ["Pôncio Pilatos", "Herodes Agripa", "Félix", "Festo"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Mateus 27:24-26",
+    "explanation": "Pôncio Pilatos entregou Jesus para ser crucificado."
+  },
+  {
+    "question": "Quem foi o profeta que ungiu Davi como futuro rei de Israel?",
+    "options": ["Natã", "Elias", "Eliseu", "Samuel"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "1 Samuel 16:12-13",
+    "explanation": "Samuel ungiu Davi por ordem de Deus."
+  },
+  {
+    "question": "Qual era o nome da esposa de Isaque?",
+    "options": ["Raquel", "Rebeca", "Lia", "Mical"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Gênesis 24:67",
+    "explanation": "Rebeca tornou-se esposa de Isaque."
+  },
+  {
+    "question": "Quem foi o profeta que confrontou o rei Davi por causa de seu pecado com Bate-Seba?",
+    "options": ["Samuel", "Gade", "Natã", "Elias"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "2 Samuel 12:1-7",
+    "explanation": "Natã contou uma parábola para confrontar Davi sobre seu pecado."
+  },
+  {
+    "question": "Qual discípulo era irmão de Pedro?",
+    "options": ["André", "João", "Filipe", "Tomé"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Mateus 4:18",
+    "explanation": "André era irmão de Simão Pedro e ambos eram pescadores."
+  },
+  {
+    "question": "Quem foi o rei que viu uma mão escrever na parede durante um banquete?",
+    "options": ["Nabucodonosor", "Dario", "Ciro", "Belsazar"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Daniel 5:5-6",
+    "explanation": "Belsazar viu uma mão escrever uma mensagem misteriosa na parede."
+  },
+  {
+    "question": "Qual era o nome do sacerdote que criou Samuel no templo?",
+    "options": ["Zacarias", "Eli", "Abiatar", "Sadoc"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "1 Samuel 2:11",
+    "explanation": "Eli orientou Samuel enquanto ele servia ao Senhor."
+  },
+  {
+    "question": "Qual mulher escondeu os espias enviados por Josué?",
+    "options": ["Débora", "Ester", "Raabe", "Rute"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Josué 2:1-6",
+    "explanation": "Raabe protegeu os espias israelitas em sua casa."
+  },
+  {
+    "question": "Qual era o nome do homem que pediu o corpo de Jesus para sepultá-lo?",
+    "options": ["José de Arimateia", "Simão Cireneu", "Gamaliel", "Nicodemos"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Mateus 27:57-60",
+    "explanation": "José de Arimateia pediu o corpo de Jesus e o colocou em seu próprio túmulo."
+  },
+  {
+    "question": "Qual profeta foi chamado por Deus para anunciar a destruição de Nínive?",
+    "options": ["Habacuque", "Sofonias", "Naum", "Ageu"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Naum 1:1",
+    "explanation": "Naum recebeu uma profecia sobre a destruição de Nínive."
+  },
+  {
+    "question": "Quem foi o primeiro filho de Adão e Eva mencionado na Bíblia?",
+    "options": ["Abel", "Caim", "Sete", "Enos"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Gênesis 4:1",
+    "explanation": "Caim foi o primeiro filho mencionado de Adão e Eva."
+  },
+  {
+    "question": "Qual era o nome do homem que substituiu Moisés na liderança de Israel?",
+    "options": ["Calebe", "Eleazar", "Josué", "Gideão"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Deuteronômio 31:7-8",
+    "explanation": "Josué recebeu a responsabilidade de conduzir Israel após Moisés."
+  },
+  {
+    "question": "Qual era o nome da mãe de João Marcos?",
+    "options": ["Maria", "Marta", "Isabel", "Lídia"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Atos 12:12",
+    "explanation": "Maria era mãe de João Marcos e sua casa recebia os cristãos."
+  },
+  {
+    "question": "Qual apóstolo foi chamado de incrédulo por duvidar da ressurreição de Jesus?",
+    "options": ["Pedro", "Filipe", "André", "Tomé"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "João 20:27",
+    "explanation": "Tomé duvidou até encontrar Jesus ressuscitado."
+  },
+  {
+    "question": "Qual era o nome do sogro de Moisés?",
+    "options": ["Labão", "Jetro", "Abimeleque", "Elcana"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Êxodo 3:1",
+    "explanation": "Jetro era sacerdote de Midiã e sogro de Moisés."
+  },
+  {
+    "question": "Qual era o nome do filho de Jônatas que ficou aleijado dos pés?",
+    "options": ["Mefibosete", "Absalão", "Adonias", "Amnom"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "2 Samuel 4:4",
+    "explanation": "Mefibosete ficou aleijado dos pés após uma queda quando era criança."
+  },
+  {
+    "question": "Qual rei de Judá encontrou o Livro da Lei durante uma reforma no templo?",
+    "options": ["Ezequias", "Manassés", "Josias", "Roboão"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "2 Reis 22:8-11",
+    "explanation": "Durante o reinado de Josias, o Livro da Lei foi encontrado no templo."
+  },
+  {
+    "question": "Qual era o nome do profeta que repreendeu o rei Acabe por tomar a vinha de Nabote?",
+    "options": ["Elias", "Eliseu", "Micaías", "Jeú"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "1 Reis 21:17-19",
+    "explanation": "Elias confrontou Acabe por causa da morte de Nabote e da tomada de sua vinha."
+  },
+  {
+    "question": "Quem foi o pai de Matusalém?",
+    "options": ["Noé", "Lameque", "Enos", "Enoque"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "Gênesis 5:21",
+    "explanation": "Enoque gerou Matusalém quando tinha sessenta e cinco anos."
+  },
+  {
+    "question": "Qual era o nome do homem que caiu da janela durante uma longa pregação de Paulo?",
+    "options": ["Êutico", "Trófimo", "Aristarco", "Gaio"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Atos 20:9",
+    "explanation": "Êutico adormeceu durante a pregação e caiu do terceiro andar."
+  },
+  {
+    "question": "Qual era o nome do rei que mandou matar os meninos de Belém na época do nascimento de Jesus?",
+    "options": ["César Augusto", "Herodes", "Pôncio Pilatos", "Arquelau"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Mateus 2:16",
+    "explanation": "Herodes ordenou a morte dos meninos de Belém na tentativa de eliminar Jesus."
+  },
+  {
+    "question": "Qual profeta teve uma visão de quatro animais que saíam do mar?",
+    "options": ["Ezequiel", "Zacarias", "Daniel", "Isaías"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "Daniel 7:2-3",
+    "explanation": "Daniel viu quatro grandes animais que representavam reinos."
+  },
+  {
+    "question": "Quem foi o rei que consultou uma médium em En-Dor?",
+    "options": ["Davi", "Saul", "Salomão", "Acabe"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "1 Samuel 28:7",
+    "explanation": "Saul procurou uma médium em En-Dor antes de enfrentar os filisteus."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo ressuscitou depois de cair de uma janela?",
+    "options": ["Êutico", "Tito", "Onésimo", "Epafras"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Atos 20:9-12",
+    "explanation": "Paulo desceu, abraçou Êutico e anunciou que ele estava vivo."
+  },
+    {
+    "question": "Quem foi o homem escolhido por Deus para construir a arca antes do dilúvio?",
+    "options": ["Abraão", "Noé", "Lameque", "Enoque"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 6:13-14",
+    "explanation": "Deus ordenou que Noé construísse uma arca para preservar sua família e os animais."
+  },
+  {
+    "question": "Qual era o nome do filho de Noé que viu sua nudez?",
+    "options": ["Sem", "Jafé", "Cão", "Arfaxade"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Gênesis 9:22",
+    "explanation": "Cão viu a nudez de seu pai e contou aos seus irmãos."
+  },
+  {
+    "question": "Quem foi o homem que viveu mais tempo segundo a Bíblia?",
+    "options": ["Matusalém", "Noé", "Adão", "Enoque"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 5:27",
+    "explanation": "Matusalém viveu 969 anos."
+  },
+  {
+    "question": "Qual era o nome do filho de Abraão com Agar?",
+    "options": ["Isaque", "Esaú", "Jacó", "Ismael"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 16:15",
+    "explanation": "Agar deu à luz Ismael, filho de Abraão."
+  },
+  {
+    "question": "Quem recebeu o nome de Israel depois de lutar com um homem durante a noite?",
+    "options": ["Isaque", "Jacó", "José", "Esaú"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 32:28",
+    "explanation": "Jacó recebeu o nome de Israel após lutar com um homem."
+  },
+  {
+    "question": "Qual era o nome da esposa de Moisés?",
+    "options": ["Miriã", "Zípora", "Débora", "Jael"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Êxodo 2:21",
+    "explanation": "Moisés casou-se com Zípora, filha de Reuel."
+  },
+  {
+    "question": "Qual alimento Deus enviou do céu para alimentar os israelitas no deserto?",
+    "options": ["Trigo", "Peixes", "Maná", "Uvas"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Êxodo 16:14-15",
+    "explanation": "Deus enviou o maná para alimentar o povo no deserto."
+  },
+  {
+    "question": "Quem conduziu o povo de Israel para fora do Egito?",
+    "options": ["Moisés", "Josué", "Arão", "Calebe"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Êxodo 3:10",
+    "explanation": "Moisés foi escolhido por Deus para libertar Israel do Egito."
+  },
+  {
+    "question": "Qual foi a primeira praga enviada sobre o Egito?",
+    "options": ["Rãs", "Piolhos", "Escuridão", "Água transformada em sangue"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Êxodo 7:20",
+    "explanation": "As águas do Egito foram transformadas em sangue."
+  },
+  {
+    "question": "Qual era o nome do irmão de Moisés que o ajudava a falar diante do faraó?",
+    "options": ["Josué", "Arão", "Calebe", "Eleazar"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Êxodo 4:14-16",
+    "explanation": "Arão foi escolhido para falar em nome de Moisés."
+  },
+  {
+    "question": "Quem derrubou os muros de Jericó depois que o povo marchou ao redor da cidade?",
+    "options": ["Josué e os israelitas", "Gideão e seus soldados", "Sansão e os filisteus", "Davi e seus guerreiros"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Josué 6:20",
+    "explanation": "Os muros caíram depois que Israel obedeceu às instruções de Deus."
+  },
+  {
+    "question": "Qual era o nome da mulher que se tornou esposa de Boaz?",
+    "options": ["Noemi", "Orfa", "Rute", "Raquel"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Rute 4:13",
+    "explanation": "Boaz casou-se com Rute, que se tornou ancestral de Davi."
+  },
+  {
+    "question": "Quem matou Caim?",
+    "options": ["Abel", "Sete", "Lameque", "A Bíblia não relata que Caim tenha sido morto"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 4:8-15",
+    "explanation": "A Bíblia relata que Caim matou Abel, mas não informa como Caim morreu."
+  },
+  {
+    "question": "Qual era o nome do gigante derrotado por Davi?",
+    "options": ["Golias", "Benaia", "Abner", "Nabucodonosor"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "1 Samuel 17:49-50",
+    "explanation": "Davi derrotou Golias com uma pedra lançada por uma funda."
+  },
+  {
+    "question": "Quem foi o rei que construiu o templo de Jerusalém?",
+    "options": ["Davi", "Salomão", "Saul", "Josias"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "1 Reis 6:1",
+    "explanation": "Salomão construiu o templo dedicado ao Senhor em Jerusalém."
+  },
+  {
+    "question": "Qual profeta foi levado ao céu em um redemoinho?",
+    "options": ["Eliseu", "Isaías", "Elias", "Jeremias"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "2 Reis 2:11",
+    "explanation": "Elias foi levado ao céu em um redemoinho."
+  },
+  {
+    "question": "Quem foi a mulher que julgava Israel e liderou o povo junto com Baraque?",
+    "options": ["Ester", "Rute", "Ana", "Débora"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Juízes 4:4-9",
+    "explanation": "Débora era profetisa e juíza de Israel."
+  },
+  {
+    "question": "Qual era o nome do filho de Davi que tentou tomar o trono de seu pai?",
+    "options": ["Absalão", "Salomão", "Natã", "Adonias"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "2 Samuel 15:10",
+    "explanation": "Absalão organizou uma revolta contra o reinado de Davi."
+  },
+  {
+    "question": "Quem foi o homem que recebeu uma visita de Jesus durante a noite?",
+    "options": ["Zaqueu", "Nicodemos", "Jairo", "Bartimeu"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "João 3:1-2",
+    "explanation": "Nicodemos procurou Jesus durante a noite para conversar com ele."
+  },
+  {
+    "question": "Qual era o nome do discípulo que era irmão de Tiago e filho de Zebedeu?",
+    "options": ["Pedro", "André", "João", "Filipe"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Mateus 4:21",
+    "explanation": "João era filho de Zebedeu e irmão de Tiago."
+  },
+  {
+    "question": "Qual foi o alimento que Jesus multiplicou junto com os peixes para alimentar uma multidão?",
+    "options": ["Trigo", "Uvas", "Cevada", "Pães"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Mateus 14:17-21",
+    "explanation": "Jesus multiplicou cinco pães e dois peixes para alimentar a multidão."
+  },
+  {
+    "question": "Qual era o nome do homem que pediu a Jesus que curasse seu servo?",
+    "options": ["Um centurião", "Um sacerdote", "Um fariseu", "Um escriba"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Mateus 8:5-6",
+    "explanation": "Um centurião procurou Jesus e demonstrou grande fé."
+  },
+  {
+    "question": "Em qual cidade Jesus realizou o milagre da ressurreição do filho de uma viúva?",
+    "options": ["Cafarnaum", "Nazaré", "Naim", "Jerusalém"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Lucas 7:11-15",
+    "explanation": "Jesus ressuscitou o filho de uma viúva na cidade de Naim."
+  },
+  {
+    "question": "Qual era o nome do homem que foi escolhido para carregar a cruz de Jesus?",
+    "options": ["José de Arimateia", "Simão Cireneu", "Nicodemos", "Bartimeu"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Marcos 15:21",
+    "explanation": "Simão Cireneu foi obrigado a carregar a cruz de Jesus."
+  },
+  {
+    "question": "Quem foi o primeiro rei de Israel?",
+    "options": ["Davi", "Salomão", "Saul", "Samuel"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "1 Samuel 10:24",
+    "explanation": "Saul foi apresentado ao povo como primeiro rei de Israel."
+  },
+  {
+    "question": "Qual era o nome do pai de João Batista?",
+    "options": ["Zacarias", "José", "Simeão", "Joaquim"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Lucas 1:13",
+    "explanation": "Zacarias recebeu do anjo o anúncio do nascimento de João."
+  },
+  {
+    "question": "Quem foi o homem que interpretou a escrita na parede para o rei Belsazar?",
+    "options": ["Ezequiel", "Jeremias", "Esdras", "Daniel"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Daniel 5:17-28",
+    "explanation": "Daniel interpretou a mensagem que anunciava o fim do reino de Belsazar."
+  },
+  {
+    "question": "Qual era o nome da irmã de Moisés?",
+    "options": ["Miriã", "Débora", "Marta", "Ana"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Êxodo 15:20",
+    "explanation": "Miriã era irmã de Moisés e profetisa em Israel."
+  },
+  {
+    "question": "Qual discípulo era conhecido por ser cobrador de impostos?",
+    "options": ["Pedro", "Mateus", "João", "Tiago"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Mateus 9:9",
+    "explanation": "Mateus trabalhava na coletoria antes de seguir Jesus."
+  },
+  {
+    "question": "Quem foi o profeta que enfrentou os profetas de Baal?",
+    "options": ["Eliseu", "Jeremias", "Elias", "Isaías"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "1 Reis 18:20-40",
+    "explanation": "Elias desafiou os profetas de Baal no monte Carmelo."
+  },
+  {
+    "question": "Qual era o nome do homem que batizou o eunuco etíope?",
+    "options": ["Pedro", "Paulo", "Barnabé", "Filipe"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Atos 8:35-38",
+    "explanation": "Filipe anunciou o evangelho e batizou o eunuco etíope."
+  },
+  {
+    "question": "Quem foi o rei que pediu a Deus sabedoria para governar?",
+    "options": ["Salomão", "Davi", "Saul", "Ezequias"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "1 Reis 3:9-12",
+    "explanation": "Salomão pediu sabedoria para governar corretamente o povo."
+  },
+  {
+    "question": "Qual era o nome do marido de Priscila?",
+    "options": ["Silas", "Áquila", "Apolos", "Timóteo"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Atos 18:2",
+    "explanation": "Priscila era casada com Áquila, companheiro de trabalho de Paulo."
+  },
+  {
+    "question": "Qual discípulo foi escolhido para substituir Judas Iscariotes?",
+    "options": ["Barnabé", "Estêvão", "Matias", "Silas"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Atos 1:26",
+    "explanation": "Matias foi escolhido para ocupar o lugar de Judas entre os apóstolos."
+  },
+  {
+    "question": "Qual era o nome do pai de João e Tiago?",
+    "options": ["Zebedeu", "Alfeu", "Jonas", "Clopas"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Mateus 4:21",
+    "explanation": "Zebedeu era pai dos irmãos João e Tiago."
+  },
+  {
+    "question": "Quem foi o homem que hospedou Jesus em sua casa e era irmão de Marta e Lázaro?",
+    "options": ["Simão", "Jairo", "Lázaro", "A Bíblia não identifica outro irmão"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Lucas 10:38-39",
+    "explanation": "Marta e Maria são apresentadas como irmãs, e Lázaro como irmão delas."
+  },
+  {
+    "question": "Qual era o nome do homem que ajudou Paulo em sua primeira viagem missionária?",
+    "options": ["Timóteo", "Barnabé", "Tito", "Lucas"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Atos 13:2-4",
+    "explanation": "Barnabé acompanhou Paulo no início de sua primeira viagem missionária."
+  },
+  {
+    "question": "Qual rei mandou reconstruir os muros de Jerusalém com a ajuda de Neemias?",
+    "options": ["Dario", "Ciro", "Artaxerxes", "Assuero"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Neemias 2:1-8",
+    "explanation": "Artaxerxes autorizou Neemias a retornar e reconstruir Jerusalém."
+  },
+  {
+    "question": "Qual era o nome do homem que foi curado por Jesus junto ao tanque de Betesda?",
+    "options": ["Um homem que estava enfermo havia trinta e oito anos", "Bartimeu", "Jairo", "O servo do centurião"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "João 5:5-9",
+    "explanation": "Jesus curou um homem que sofria havia trinta e oito anos."
+  },
+  {
+    "question": "Qual era o nome do rei que tentou matar o menino Jesus?",
+    "options": ["César", "Pilatos", "Herodes", "Félix"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Mateus 2:13-16",
+    "explanation": "Herodes procurou matar Jesus após saber do nascimento do rei dos judeus."
+  },
+  {
+    "question": "Qual profeta anunciou que uma virgem conceberia e daria à luz um filho?",
+    "options": ["Jeremias", "Isaías", "Daniel", "Malaquias"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Isaías 7:14",
+    "explanation": "Isaías anunciou o sinal de Emanuel, associado ao nascimento de Jesus."
+  },
+  {
+    "question": "Qual era o nome do homem que foi colocado em um cesto no rio Nilo quando era bebê?",
+    "options": ["Moisés", "Arão", "Josué", "Samuel"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Êxodo 2:3",
+    "explanation": "A mãe de Moisés o colocou em um cesto entre os juncos do Nilo."
+  },
+  {
+    "question": "Qual era o nome do pai de Bezalel, artesão do tabernáculo?",
+    "options": ["Hur", "Aoliabe", "Uri", "Eleazar"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "Êxodo 31:2",
+    "explanation": "Bezalel era filho de Uri, da tribo de Judá."
+  },
+  {
+    "question": "Qual era o nome do rei de Moabe que contratou Balaão para amaldiçoar Israel?",
+    "options": ["Seom", "Balaque", "Og", "Acabe"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Números 22:2-6",
+    "explanation": "Balaque procurou Balaão para amaldiçoar os israelitas."
+  },
+  {
+    "question": "Qual era o nome do profeta que sucedeu Elias?",
+    "options": ["Isaías", "Jeremias", "Samuel", "Eliseu"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "2 Reis 2:15",
+    "explanation": "Eliseu recebeu o manto de Elias e continuou seu ministério profético."
+  },
+  {
+    "question": "Quem foi o homem que escreveu o livro de Atos dos Apóstolos?",
+    "options": ["Lucas", "Paulo", "Pedro", "João"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Atos 1:1",
+    "explanation": "O livro de Atos é tradicionalmente atribuído a Lucas."
+  },
+  {
+    "question": "Qual era o nome do sacerdote que encontrou o Livro da Lei no templo durante o reinado de Josias?",
+    "options": ["Abiatar", "Sadoc", "Hilquias", "Eli"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "2 Reis 22:8",
+    "explanation": "Hilquias encontrou o Livro da Lei durante os trabalhos no templo."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo deixou em Creta para organizar as igrejas?",
+    "options": ["Timóteo", "Tito", "Silas", "Tíquico"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Tito 1:5",
+    "explanation": "Paulo deixou Tito em Creta para estabelecer presbíteros nas cidades."
+  },
+  {
+    "question": "Qual era o nome da mulher que escondeu os espias israelitas em Jericó?",
+    "options": ["Jael", "Débora", "Rute", "Raabe"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "Josué 2:1-6",
+    "explanation": "Raabe protegeu os espias e ajudou na conquista de Jericó."
+  },
+  {
+    "question": "Qual era o nome do filho de Abraão que nasceu primeiro?",
+    "options": ["Isaque", "Ismael", "Jacó", "Esaú"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 16:15",
+    "explanation": "Ismael nasceu de Agar antes do nascimento de Isaque."
+  },
+  {
+    "question": "Quem foi o homem que recebeu de Deus a promessa de ser pai de uma grande nação?",
+    "options": ["Moisés", "Davi", "Abraão", "Noé"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Gênesis 12:2",
+    "explanation": "Deus prometeu fazer de Abraão uma grande nação."
+  },
+  {
+    "question": "Qual era o nome do filho de Jacó que foi vendido pelos irmãos?",
+    "options": ["José", "Rúben", "Judá", "Benjamim"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 37:28",
+    "explanation": "José foi vendido pelos irmãos a mercadores que viajavam para o Egito."
+  },
+  {
+    "question": "Quem recebeu a visita de três homens enquanto estava sentado à entrada de sua tenda?",
+    "options": ["Isaque", "Jacó", "Ló", "Abraão"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 18:1-2",
+    "explanation": "Abraão recebeu três visitantes junto aos carvalhos de Manre."
+  },
+  {
+    "question": "Qual era o nome da esposa de Ló?",
+    "options": ["Sara", "A Bíblia não informa seu nome", "Rebeca", "Agar"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 19:26",
+    "explanation": "A Bíblia menciona a esposa de Ló, mas não revela seu nome."
+  },
+  {
+    "question": "Quem foi transformada em uma estátua de sal ao olhar para trás?",
+    "options": ["A esposa de Ló", "A filha de Ló", "Sara", "Agar"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 19:26",
+    "explanation": "A esposa de Ló olhou para trás e tornou-se uma coluna de sal."
+  },
+  {
+    "question": "Qual era o nome do filho mais novo de Jacó e Raquel?",
+    "options": ["José", "Judá", "Rúben", "Benjamim"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 35:18",
+    "explanation": "Benjamim nasceu quando Raquel estava morrendo durante o parto."
+  },
+  {
+    "question": "Quem foi o homem que lutou com um anjo durante a noite?",
+    "options": ["Abraão", "Jacó", "Isaque", "José"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 32:24-28",
+    "explanation": "Jacó lutou durante a noite e recebeu o nome de Israel."
+  },
+  {
+    "question": "Qual era o nome do irmão de José que ficou como garantia no Egito?",
+    "options": ["Benjamim", "Levi", "Simeão", "Rúben"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Gênesis 42:24",
+    "explanation": "José mandou prender Simeão enquanto os irmãos voltavam para Canaã."
+  },
+  {
+    "question": "Quem encontrou Moisés quando ele estava dentro de um cesto no rio?",
+    "options": ["A filha do faraó", "Miriã", "Zípora", "A esposa de Arão"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Êxodo 2:5-6",
+    "explanation": "A filha do faraó encontrou o bebê Moisés entre os juncos."
+  },
+  {
+    "question": "Qual era o nome do sogro de Moisés?",
+    "options": ["Labão", "Jetro", "Elcana", "Boaz"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Êxodo 3:1",
+    "explanation": "Jetro era sacerdote de Midiã e sogro de Moisés."
+  },
+  {
+    "question": "Quem foi o sucessor de Moisés na liderança do povo de Israel?",
+    "options": ["Arão", "Calebe", "Josué", "Eleazar"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Josué 1:1-2",
+    "explanation": "Josué recebeu a missão de conduzir Israel após a morte de Moisés."
+  },
+  {
+    "question": "Qual cidade teve seus muros derrubados após o povo de Israel marchar ao seu redor?",
+    "options": ["Jericó", "Ai", "Betel", "Hebrom"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Josué 6:20",
+    "explanation": "Os muros de Jericó caíram após o povo obedecer às ordens de Deus."
+  },
+  {
+    "question": "Quem foi o juiz de Israel que derrotou os filisteus usando uma queixada de jumento?",
+    "options": ["Gideão", "Jefté", "Sansão", "Otniel"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Juízes 15:15",
+    "explanation": "Sansão derrotou mil filisteus usando uma queixada de jumento."
+  },
+  {
+    "question": "Qual era o nome da mulher que se tornou rainha da Pérsia e salvou os judeus?",
+    "options": ["Vasti", "Rute", "Débora", "Ester"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Ester 7:3-4",
+    "explanation": "Ester intercedeu pelo povo judeu diante do rei."
+  },
+  {
+    "question": "Quem foi o profeta que recebeu alimento de uma viúva durante a seca?",
+    "options": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "1 Reis 17:8-16",
+    "explanation": "Uma viúva de Sarepta alimentou Elias durante a seca."
+  },
+  {
+    "question": "Qual era o nome do pai de Davi?",
+    "options": ["Saul", "Jessé", "Obede", "Boaz"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "1 Samuel 16:1",
+    "explanation": "Jessé era pai de Davi e morava em Belém."
+  },
+  {
+    "question": "Quem foi o rei que lançou Daniel na cova dos leões?",
+    "options": ["Nabucodonosor", "Ciro", "Dario", "Belsazar"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Daniel 6:16",
+    "explanation": "O rei Dario permitiu que Daniel fosse lançado na cova dos leões."
+  },
+  {
+    "question": "Qual discípulo andou sobre as águas em direção a Jesus?",
+    "options": ["João", "André", "Tomé", "Pedro"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Mateus 14:28-29",
+    "explanation": "Pedro saiu do barco e caminhou sobre as águas em direção a Jesus."
+  },
+  {
+    "question": "Qual era o nome do homem que Jesus chamou para sair de um túmulo depois de quatro dias?",
+    "options": ["Lázaro", "Jairo", "Bartimeu", "Nicodemos"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "João 11:43-44",
+    "explanation": "Jesus ressuscitou Lázaro depois de quatro dias no sepulcro."
+  },
+  {
+    "question": "Qual era o nome do homem que foi escolhido para ser o primeiro rei de Israel?",
+    "options": ["Davi", "Saul", "Salomão", "Jeroboão"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "1 Samuel 10:24",
+    "explanation": "Saul foi apresentado ao povo como o primeiro rei de Israel."
+  },
+  {
+    "question": "Qual profeta confrontou Davi depois do pecado envolvendo Bate-Seba?",
+    "options": ["Gade", "Samuel", "Natã", "Elias"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "2 Samuel 12:1-7",
+    "explanation": "Natã confrontou Davi usando uma parábola sobre um homem rico."
+  },
+  {
+    "question": "Quem foi o homem que substituiu Moisés e liderou Israel na conquista de Canaã?",
+    "options": ["Josué", "Calebe", "Eleazar", "Gideão"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Josué 1:1-6",
+    "explanation": "Josué conduziu Israel após a morte de Moisés."
+  },
+  {
+    "question": "Qual era o nome do pai de Samuel?",
+    "options": ["Eli", "Elcana", "Abner", "Saul"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "1 Samuel 1:1-2",
+    "explanation": "Elcana era marido de Ana e pai de Samuel."
+  },
+  {
+    "question": "Qual era o nome do sacerdote que encontrou o Livro da Lei durante o reinado de Josias?",
+    "options": ["Eli", "Abiatar", "Hilquias", "Sadoc"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "2 Reis 22:8",
+    "explanation": "Hilquias encontrou o Livro da Lei durante a reforma do templo."
+  },
+  {
+    "question": "Qual rei teve sua vida prolongada por mais quinze anos após orar a Deus?",
+    "options": ["Ezequias", "Josias", "Acabe", "Manassés"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "2 Reis 20:1-6",
+    "explanation": "Deus ouviu a oração de Ezequias e acrescentou quinze anos à sua vida."
+  },
+  {
+    "question": "Qual profeta recebeu a visão de um vale cheio de ossos secos?",
+    "options": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Ezequiel 37:1-10",
+    "explanation": "A visão de Ezequiel representava a restauração do povo de Israel."
+  },
+  {
+    "question": "Quem foi o homem que pediu sabedoria a Deus em vez de riquezas?",
+    "options": ["Davi", "Salomão", "Ezequias", "Josafá"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "1 Reis 3:9-12",
+    "explanation": "Salomão pediu sabedoria para governar o povo."
+  },
+  {
+    "question": "Qual era o nome do homem que ajudou Paulo a escrever a carta aos Romanos?",
+    "options": ["Tércio", "Silas", "Timóteo", "Lucas"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Romanos 16:22",
+    "explanation": "Tércio escreveu a carta aos Romanos enquanto Paulo ditava."
+  },
+  {
+    "question": "Qual era o nome do discípulo que foi chamado de Dídimo?",
+    "options": ["Pedro", "André", "Filipe", "Tomé"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "João 11:16",
+    "explanation": "Dídimo era outro nome usado para identificar Tomé."
+  },
+  {
+    "question": "Quem foi o homem que recebeu Paulo em sua casa depois de sua conversão?",
+    "options": ["Ananias", "Barnabé", "Judas, em Damasco", "Silas"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Atos 9:10-17",
+    "explanation": "Ananias foi enviado por Deus para encontrar Saulo em Damasco."
+  },
+  {
+    "question": "Qual era o nome da cidade onde Paulo e Silas foram presos e cantaram louvores?",
+    "options": ["Filipos", "Éfeso", "Corinto", "Tessalônica"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Atos 16:12-25",
+    "explanation": "Paulo e Silas foram presos em Filipos e louvaram a Deus na prisão."
+  },
+  {
+    "question": "Quem foi o homem que batizou o oficial etíope?",
+    "options": ["Pedro", "Filipe", "João", "Estêvão"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Atos 8:36-38",
+    "explanation": "Filipe explicou as Escrituras e batizou o oficial etíope."
+  },
+  {
+    "question": "Qual era o nome da mulher que vendia púrpura e recebeu Paulo em sua casa?",
+    "options": ["Priscila", "Febe", "Lídia", "Dorcas"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Atos 16:14-15",
+    "explanation": "Lídia era comerciante de púrpura e recebeu os missionários em sua casa."
+  },
+  {
+    "question": "Qual apóstolo foi morto à espada por ordem de Herodes?",
+    "options": ["Pedro", "João", "André", "Tiago, filho de Zebedeu"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Atos 12:1-2",
+    "explanation": "Herodes mandou matar Tiago, irmão de João, à espada."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo encontrou em Atenas e que havia construído um altar ao Deus desconhecido?",
+    "options": ["Os atenienses não são identificados individualmente", "Dionísio", "Demétrio", "Tito"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Atos 17:22-23",
+    "explanation": "Paulo mencionou o altar ao Deus desconhecido durante seu discurso em Atenas."
+  },
+  {
+    "question": "Qual era o nome do governador que ouviu Paulo falar sobre justiça, domínio próprio e juízo?",
+    "options": ["Pilatos", "Félix", "Festo", "Gálio"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Atos 24:24-25",
+    "explanation": "Félix ouviu Paulo falar sobre a fé em Cristo Jesus."
+  },
+  {
+    "question": "Qual profeta anunciou a chegada de um mensageiro que prepararia o caminho do Senhor?",
+    "options": ["Malaquias", "Joel", "Isaías", "Obadias"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Malaquias 3:1",
+    "explanation": "Malaquias anunciou um mensageiro que prepararia o caminho do Senhor."
+  },
+  {
+    "question": "Qual era o nome do rei que ficou leproso depois de tentar oferecer incenso no templo?",
+    "options": ["Ezequias", "Acaz", "Uzias", "Josias"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "2 Crônicas 26:16-21",
+    "explanation": "Uzias foi atingido pela lepra após agir com orgulho e invadir a função sacerdotal."
+  },
+  {
+    "question": "Quem foi o homem que interpretou os sonhos de Nabucodonosor?",
+    "options": ["Daniel", "José", "Ezequiel", "Esdras"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Daniel 2:26-28",
+    "explanation": "Daniel revelou e interpretou o sonho do rei com a ajuda de Deus."
+  },
+  {
+    "question": "Qual era o nome do homem que foi chamado de filho da consolação pelos apóstolos?",
+    "options": ["Silas", "Barnabé", "Tito", "Timóteo"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Atos 4:36",
+    "explanation": "Barnabé recebeu esse apelido por seu espírito encorajador."
+  },
+  {
+    "question": "Qual era o nome do rei que governava a Judeia quando João Batista começou a pregar?",
+    "options": ["Herodes Antipas", "Herodes Agripa", "Arquelau", "Herodes, o Grande"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Lucas 3:1",
+    "explanation": "Herodes Antipas governava a Galileia durante o início do ministério de João Batista."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo deixou doente em Mileto?",
+    "options": ["Tíquico", "Trófimo", "Epafrodito", "Aristarco"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "2 Timóteo 4:20",
+    "explanation": "Paulo informou que deixou Trófimo doente em Mileto."
+  },
+  {
+    "question": "Qual era o nome do pai de Matusalém?",
+    "options": ["Lameque", "Noé", "Enoque", "Jarede"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "Gênesis 5:21",
+    "explanation": "Enoque gerou Matusalém quando tinha sessenta e cinco anos."
+  },
+  {
+    "question": "Qual era o nome do homem que foi escolhido para acompanhar Paulo e Barnabé na primeira viagem missionária, mas voltou para Jerusalém?",
+    "options": ["Timóteo", "Silas", "Lucas", "João Marcos"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "Atos 13:5,13",
+    "explanation": "João Marcos deixou os missionários e retornou a Jerusalém."
+  },
+  {
+    "question": "Qual era o nome do homem que caiu morto após mentir sobre o valor de uma propriedade?",
+    "options": ["Ananias", "Safira", "Simão", "Judas"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Atos 5:1-5",
+    "explanation": "Ananias mentiu ao Espírito Santo sobre o valor da venda."
+  },
+  {
+    "question": "Qual era o nome da esposa de Ananias que também morreu após mentir?",
+    "options": ["Priscila", "Safira", "Lídia", "Dorcas"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Atos 5:7-10",
+    "explanation": "Safira confirmou a mentira do marido e também morreu."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo encontrou em Corinto e que era chefe da sinagoga?",
+    "options": ["Crispo", "Sóstenes", "Gamaliel", "Tércio"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Atos 18:8",
+    "explanation": "Crispo era chefe da sinagoga e creu no Senhor com sua família."
+  },
+  {
+    "question": "Qual era o nome do rei que tentou impedir a reconstrução do templo em Jerusalém por meio de uma carta?",
+    "options": ["Ciro", "Artaxerxes", "Dario", "Assuero"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Esdras 4:7-8",
+    "explanation": "Artaxerxes recebeu uma carta contra a reconstrução de Jerusalém."
+  },
+  {
+    "question": "Qual era o nome do profeta que repreendeu Davi por seu pecado e contou a parábola da cordeirinha?",
+    "options": ["Gade", "Samuel", "Natã", "Elias"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "2 Samuel 12:1-7",
+    "explanation": "Natã usou a história da cordeirinha para mostrar o pecado de Davi."
+  },
+  {
+    "question": "Qual era o nome do homem que foi levado ao terceiro céu, segundo Paulo?",
+    "options": ["Paulo", "Pedro", "João", "Barnabé"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "2 Coríntios 12:2",
+    "explanation": "Paulo relata a experiência de um homem que foi arrebatado ao terceiro céu."
+  }
+    ```
+
+[
+  {
+    "question": "Qual era o nome da mãe de Samuel?",
+    "options": ["Ana", "Isabel", "Rebeca", "Marta"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "1 Samuel 1:20",
+    "explanation": "Ana recebeu de Deus a bênção de ter um filho e o chamou Samuel."
+  },
+  {
+    "question": "Quem foi lançado na cova dos leões?",
+    "options": ["Ezequiel", "Daniel", "Jeremias", "Elias"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Daniel 6:16",
+    "explanation": "Daniel foi lançado na cova por continuar orando a Deus."
+  },
+  {
+    "question": "Qual discípulo era conhecido como o cobrador de impostos antes de seguir Jesus?",
+    "options": ["Pedro", "João", "Mateus", "André"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Mateus 9:9",
+    "explanation": "Jesus chamou Mateus enquanto ele estava sentado na coletoria."
+  },
+  {
+    "question": "Quem derrotou o gigante Golias?",
+    "options": ["Saul", "Jônatas", "Abner", "Davi"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "1 Samuel 17:50",
+    "explanation": "Davi derrotou Golias usando uma funda e uma pedra."
+  },
+  {
+    "question": "Em qual cidade Jesus nasceu?",
+    "options": ["Belém", "Nazaré", "Jerusalém", "Cafarnaum"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Mateus 2:1",
+    "explanation": "Jesus nasceu em Belém, na Judeia."
+  },
+  {
+    "question": "Quem recebeu os Dez Mandamentos no monte Sinai?",
+    "options": ["Josué", "Moisés", "Arão", "Calebe"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Êxodo 31:18",
+    "explanation": "Deus entregou a Moisés as duas tábuas do testemunho."
+  },
+  {
+    "question": "Qual animal falou com Balaão?",
+    "options": ["Um camelo", "Um leão", "Uma jumenta", "Uma ovelha"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Números 22:28",
+    "explanation": "Deus abriu a boca da jumenta, que falou com Balaão."
+  },
+  {
+    "question": "Quem foi engolido por um grande peixe?",
+    "options": ["Elias", "Eliseu", "Amós", "Jonas"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Jonas 1:17",
+    "explanation": "Jonas ficou dentro do grande peixe durante três dias e três noites."
+  },
+  {
+    "question": "Qual era a profissão de Pedro antes de seguir Jesus?",
+    "options": ["Pescador", "Carpinteiro", "Pastor", "Soldado"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Mateus 4:18",
+    "explanation": "Pedro trabalhava como pescador junto com seu irmão André."
+  },
+  {
+    "question": "Quem foi a primeira mulher, segundo o livro de Gênesis?",
+    "options": ["Sara", "Eva", "Rebeca", "Raquel"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 3:20",
+    "explanation": "Eva é apresentada como a mãe de todos os viventes."
+  },
+  {
+    "question": "Quantos discípulos Jesus escolheu como apóstolos?",
+    "options": ["Sete", "Dez", "Doze", "Quatorze"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Lucas 6:13",
+    "explanation": "Jesus escolheu doze discípulos e também os chamou de apóstolos."
+  },
+  {
+    "question": "Quem interpretou os sonhos do faraó no Egito?",
+    "options": ["Moisés", "Arão", "Daniel", "José"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Gênesis 41:15-16",
+    "explanation": "José explicou que a interpretação dos sonhos vinha de Deus."
+  },
+  {
+    "question": "Qual foi o primeiro livro da Bíblia?",
+    "options": ["Gênesis", "Êxodo", "Levítico", "Salmos"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Gênesis 1:1",
+    "explanation": "Gênesis é o primeiro livro da Bíblia e relata a criação."
+  },
+  {
+    "question": "Quem batizou Jesus no rio Jordão?",
+    "options": ["Pedro", "João Batista", "Tiago", "André"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Mateus 3:13",
+    "explanation": "João Batista batizou Jesus no rio Jordão."
+  },
+  {
+    "question": "Qual era o nome do irmão de Moisés?",
+    "options": ["Josué", "Calebe", "Arão", "Eleazar"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Êxodo 4:14",
+    "explanation": "Arão era irmão de Moisés e foi escolhido para ajudá-lo."
+  },
+  {
+    "question": "Quem subiu em uma árvore para ver Jesus passar?",
+    "options": ["Bartimeu", "Nicodemos", "Jairo", "Zaqueu"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Lucas 19:4",
+    "explanation": "Zaqueu subiu em um sicômoro porque era de pequena estatura."
+  },
+  {
+    "question": "Qual mar o povo de Israel atravessou durante o êxodo?",
+    "options": ["Mar Vermelho", "Mar Morto", "Mar da Galileia", "Mar Mediterrâneo"],
+    "correct_index": 0,
+    "level": "facil",
+    "reference": "Êxodo 14:21-22",
+    "explanation": "Deus abriu o caminho pelo mar Vermelho para os israelitas."
+  },
+  {
+    "question": "Quem foi vendido pelos próprios irmãos e levado ao Egito?",
+    "options": ["Isaque", "José", "Jacó", "Benjamim"],
+    "correct_index": 1,
+    "level": "facil",
+    "reference": "Gênesis 37:28",
+    "explanation": "Os irmãos de José o venderam a mercadores ismaelitas."
+  },
+  {
+    "question": "Qual mulher escondeu os espias enviados a Jericó?",
+    "options": ["Débora", "Rute", "Raabe", "Miriã"],
+    "correct_index": 2,
+    "level": "facil",
+    "reference": "Josué 2:1-4",
+    "explanation": "Raabe recebeu os espias e os escondeu em sua casa."
+  },
+  {
+    "question": "Qual apóstolo negou Jesus três vezes?",
+    "options": ["Tomé", "Judas Iscariotes", "Filipe", "Pedro"],
+    "correct_index": 3,
+    "level": "facil",
+    "reference": "Lucas 22:61",
+    "explanation": "Pedro negou conhecer Jesus antes que o galo cantasse."
+  },
+  {
+    "question": "Quem sucedeu Moisés na liderança do povo de Israel?",
+    "options": ["Josué", "Calebe", "Arão", "Gideão"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Josué 1:1-2",
+    "explanation": "Deus escolheu Josué para conduzir Israel após a morte de Moisés."
+  },
+  {
+    "question": "Qual juiz de Israel ficou conhecido por sua grande força?",
+    "options": ["Gideão", "Sansão", "Jefté", "Otniel"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Juízes 16:17",
+    "explanation": "Sansão revelou que sua força estava ligada ao voto de nazireu."
+  },
+  {
+    "question": "Quem foi a sogra de Rute?",
+    "options": ["Raquel", "Mical", "Noemi", "Abigail"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Rute 1:3-4",
+    "explanation": "Noemi era mãe de Malom e Quiliom, maridos de Rute e Orfa."
+  },
+  {
+    "question": "Qual profeta confrontou os profetas de Baal no monte Carmelo?",
+    "options": ["Isaías", "Jeremias", "Eliseu", "Elias"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "1 Reis 18:19-20",
+    "explanation": "Elias desafiou os profetas de Baal diante do povo de Israel."
+  },
+  {
+    "question": "Quem foi o pai de João Batista?",
+    "options": ["Zacarias", "Simeão", "José", "Anás"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Lucas 1:13",
+    "explanation": "O anjo anunciou a Zacarias que Isabel teria um filho chamado João."
+  },
+  {
+    "question": "Em qual ilha João recebeu a revelação do Apocalipse?",
+    "options": ["Creta", "Patmos", "Chipre", "Malta"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Apocalipse 1:9",
+    "explanation": "João estava na ilha de Patmos por causa da palavra de Deus."
+  },
+  {
+    "question": "Qual rei pediu sabedoria a Deus em vez de riquezas?",
+    "options": ["Saul", "Ezequias", "Salomão", "Josias"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "1 Reis 3:9-12",
+    "explanation": "Salomão pediu um coração compreensivo para governar o povo."
+  },
+  {
+    "question": "Quem foi escolhido para ocupar o lugar de Judas Iscariotes entre os apóstolos?",
+    "options": ["Barnabé", "Silas", "Timóteo", "Matias"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Atos 1:26",
+    "explanation": "Matias foi escolhido por sorteio para completar o grupo dos doze."
+  },
+  {
+    "question": "Qual mulher se tornou rainha e intercedeu pelo povo judeu?",
+    "options": ["Ester", "Débora", "Miriã", "Abigail"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Ester 4:14-16",
+    "explanation": "Ester arriscou sua vida para interceder pelos judeus diante do rei."
+  },
+  {
+    "question": "Qual discípulo duvidou da ressurreição de Jesus até ver suas feridas?",
+    "options": ["Filipe", "Tomé", "Bartolomeu", "Mateus"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "João 20:24-27",
+    "explanation": "Tomé pediu para ver e tocar as marcas dos ferimentos de Jesus."
+  },
+  {
+    "question": "Quem foi o primeiro mártir cristão mencionado em Atos?",
+    "options": ["Tiago", "Pedro", "Estêvão", "Barnabé"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Atos 7:59-60",
+    "explanation": "Estêvão foi apedrejado após testemunhar sobre Jesus."
+  },
+  {
+    "question": "Qual profeta foi chamado ainda menino enquanto servia no templo?",
+    "options": ["Jeremias", "Ezequiel", "Isaías", "Samuel"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "1 Samuel 3:4-10",
+    "explanation": "Samuel ouviu a voz de Deus quando ainda era menino."
+  },
+  {
+    "question": "Quem acompanhou Paulo em sua primeira viagem missionária, além de Barnabé?",
+    "options": ["João Marcos", "Lucas", "Timóteo", "Silas"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Atos 13:5",
+    "explanation": "João Marcos acompanhou Paulo e Barnabé como auxiliar."
+  },
+  {
+    "question": "Qual rei teve sua vida prolongada por mais quinze anos após orar a Deus?",
+    "options": ["Josias", "Ezequias", "Acaz", "Manassés"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "2 Reis 20:1-6",
+    "explanation": "Deus ouviu a oração de Ezequias e acrescentou quinze anos à sua vida."
+  },
+  {
+    "question": "Quem era o pai de João e Tiago, filhos do trovão?",
+    "options": ["Zebedeu", "Alfeu", "Jonas", "Clopas"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "Marcos 3:17",
+    "explanation": "João e Tiago eram filhos de Zebedeu."
+  },
+  {
+    "question": "Qual profeta sucedeu Elias em seu ministério?",
+    "options": ["Isaías", "Eliseu", "Miqueias", "Oseias"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "2 Reis 2:9-15",
+    "explanation": "Eliseu recebeu a porção dobrada do espírito de Elias."
+  },
+  {
+    "question": "Em qual cidade os seguidores de Jesus foram chamados cristãos pela primeira vez?",
+    "options": ["Jerusalém", "Éfeso", "Antioquia", "Corinto"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Atos 11:26",
+    "explanation": "Foi em Antioquia que os discípulos receberam pela primeira vez o nome de cristãos."
+  },
+  {
+    "question": "Qual era o nome do servo do sumo sacerdote cuja orelha Pedro cortou?",
+    "options": ["Malco", "Ananias", "Tíquico", "Onésimo"],
+    "correct_index": 0,
+    "level": "medio",
+    "reference": "João 18:10",
+    "explanation": "Pedro cortou a orelha direita de Malco durante a prisão de Jesus."
+  },
+  {
+    "question": "Quem foi a mulher que julgava Israel debaixo de uma palmeira?",
+    "options": ["Jael", "Débora", "Ester", "Hulda"],
+    "correct_index": 1,
+    "level": "medio",
+    "reference": "Juízes 4:4-5",
+    "explanation": "Débora era profetisa e julgava Israel debaixo da palmeira que levava seu nome."
+  },
+  {
+    "question": "Qual livro da Bíblia conta a história da reconstrução dos muros de Jerusalém?",
+    "options": ["Esdras", "Ester", "Neemias", "Ageu"],
+    "correct_index": 2,
+    "level": "medio",
+    "reference": "Neemias 6:15",
+    "explanation": "Neemias relata a reconstrução dos muros de Jerusalém em cinquenta e dois dias."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo encontrou em Atenas e que possuía um altar ao Deus desconhecido?",
+    "options": ["Dionísio", "Sóstenes", "Gaio", "Nenhum homem específico"],
+    "correct_index": 3,
+    "level": "medio",
+    "reference": "Atos 17:23",
+    "explanation": "Paulo mencionou o altar que encontrou, sem identificar uma pessoa como seu proprietário."
+  },
+  {
+    "question": "Qual profeta recebeu a ordem de casar-se com Gômer?",
+    "options": ["Oseias", "Joel", "Amós", "Malaquias"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Oseias 1:2-3",
+    "explanation": "Deus ordenou a Oseias que se casasse com Gômer como sinal para Israel."
+  },
+  {
+    "question": "Qual era o nome do pai de Mefibosete?",
+    "options": ["Saul", "Jônatas", "Davi", "Isbosete"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "2 Samuel 4:4",
+    "explanation": "Mefibosete era filho de Jônatas e neto de Saul."
+  },
+  {
+    "question": "Qual sacerdote encontrou o Livro da Lei durante o reinado de Josias?",
+    "options": ["Abiatar", "Zadoque", "Hilquias", "Aimeleque"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "2 Reis 22:8",
+    "explanation": "Hilquias encontrou o Livro da Lei na Casa do Senhor."
+  },
+  {
+    "question": "Quem foi o pai de Bezalel, o artesão escolhido para trabalhar no tabernáculo?",
+    "options": ["Hur", "Uri", "Aoliabe", "Uri, filho de Hur"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "Êxodo 31:2",
+    "explanation": "Bezalel era filho de Uri, filho de Hur, da tribo de Judá."
+  },
+  {
+    "question": "Qual profeta viu um vale cheio de ossos secos?",
+    "options": ["Ezequiel", "Daniel", "Jeremias", "Zacarias"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "Ezequiel 37:1-2",
+    "explanation": "Ezequiel recebeu a visão dos ossos secos como sinal da restauração de Israel."
+  },
+  {
+    "question": "Qual era o nome do governador romano que interrogou Paulo em Cesareia?",
+    "options": ["Pôncio Pilatos", "Félix", "Gálio", "Herodes Agripa"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Atos 24:1-2",
+    "explanation": "Félix era o governador diante de quem Paulo apresentou sua defesa."
+  },
+  {
+    "question": "Qual dos filhos de Jacó recebeu a bênção relacionada ao cetro e ao governo?",
+    "options": ["José", "Levi", "Judá", "Rúben"],
+    "correct_index": 2,
+    "level": "dificil",
+    "reference": "Gênesis 49:10",
+    "explanation": "Jacó profetizou que o cetro não se afastaria de Judá."
+  },
+  {
+    "question": "Quem foi o rei de Judá que reinou apenas três meses antes de ser levado para a Babilônia?",
+    "options": ["Jeoaquim", "Zedequias", "Josias", "Joaquim"],
+    "correct_index": 3,
+    "level": "dificil",
+    "reference": "2 Reis 24:8-12",
+    "explanation": "Joaquim reinou três meses em Jerusalém antes de se render a Nabucodonosor."
+  },
+  {
+    "question": "Qual era o nome do homem que Paulo deixou doente em Mileto?",
+    "options": ["Trófimo", "Epafrodito", "Aristarco", "Tíquico"],
+    "correct_index": 0,
+    "level": "dificil",
+    "reference": "2 Timóteo 4:20",
+    "explanation": "Paulo informou que havia deixado Trófimo doente em Mileto."
+  },
+  {
+    "question": "Qual profeta anunciou que o governante de Israel nasceria em Belém?",
+    "options": ["Isaías", "Miqueias", "Naum", "Sofonias"],
+    "correct_index": 1,
+    "level": "dificil",
+    "reference": "Miqueias 5:2",
+    "explanation": "Miqueias profetizou que de Belém sairia aquele que governaria Israel."
+  }
+]
+
+
+
+    
+  
