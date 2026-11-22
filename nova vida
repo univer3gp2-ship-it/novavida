@@ -15,7 +15,7 @@
   "effect_color": "#FFC83D",
   "effect_opacity": 0.55,
   "autoplay": true,
-  "enable_banners": true,
+  "enable_banners": false,
   "enable_social": true,
   "enable_recording": true,
   "enable_timer": true,
