@@ -16,7 +16,7 @@
   "effect_opacity": 0.55,
   "autoplay": true,
   "enable_banners": false,
-  "minimum_app_version_code": 1,
+  "minimum_app_version_code": 4,
   "app_update_url": "https://github.com/univer3gp2-ship-it/novavida/releases/latest",
   "app_update_message": "Uma nova versão do NOVA VIDA FM é obrigatória. Atualize o aplicativo para continuar usando.",
   "enable_home_cards": true,
@@ -43,7 +43,7 @@
   "enable_album_art": true,
   "enable_album_view": true,
   "banner_interval_seconds": 5,
-  "reflection_seconds": 15,
+  "reflection_seconds": 10,
   "passage_seconds": 10,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
@@ -61,6 +61,10 @@
   "chat_background_url": "https://i.postimg.cc/MGs2XkWM/45fb63a3a047cd09f1657a73b9f4ce30.jpg",
   "chat_bg_tint_color": "#2A1B9A",
   "chat_bg_tint_opacity": 0.60,
+  "chat_image_api_key": [
+    "322e0ad8a382428de0cccacdfd9ea189",
+    "43646534e58e0c1c54175b86f1745b30"
+  ],
   "banners": [
     {
       "title": "CANIL DE TORRES",
@@ -94,7 +98,7 @@
     },
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/profile.php?id=61593455924119"
+      "url": "https://www.facebook.com/"
     },
     {
       "icon": "instagram",
