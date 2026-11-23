@@ -43,7 +43,7 @@
   "enable_album_art": true,
   "enable_album_view": true,
   "banner_interval_seconds": 5,
-  "reflection_seconds": 10,
+  "reflection_seconds": 15,
   "passage_seconds": 10,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
