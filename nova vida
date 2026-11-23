@@ -16,7 +16,7 @@
   "effect_opacity": 0.55,
   "autoplay": true,
   "enable_banners": false,
-  "minimum_app_version_code": 1,
+  "minimum_app_version_code": 4,
   "app_update_url": "https://github.com/univer3gp2-ship-it/novavida/releases/latest",
   "app_update_message": "Uma nova versão do NOVA VIDA FM é obrigatória. Atualize o aplicativo para continuar usando.",
   "enable_home_cards": true,
@@ -30,6 +30,7 @@
       "image_url": "",
       "click_url": "",
       "button_text": "Abrir",
+      "seconds": 10,
       "bg_color": "#2B3499",
       "text_color": "#FFFFFF"
     }
@@ -41,7 +42,9 @@
   "enable_metadata": true,
   "enable_album_art": true,
   "enable_album_view": true,
-  "banner_interval_ms": 5000,
+  "banner_interval_seconds": 5,
+  "reflection_seconds": 15,
+  "passage_seconds": 10,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
   "enable_tv": true,
