@@ -55,7 +55,7 @@
   "enable_biblia_audio": true,
   "biblia_audio_url": "https://www.bible.com/pt/audio-bible-app-versions/211-ntlh-new-translation-on-todays-language",
   "quiz_biblico_url": "https://raw.githubusercontent.com/univer3gp2-ship-it/novavida/refs/heads/main/quiz-biblico.json",
-  "tv_url": "https://www.youtube.com/watch?v=LYsaKn8FRhc&list=PL_Q15fKxrBb4pxTp2zQm6zZU3-h4dlm05",
+  "tv_url": "https://www.youtube.com/playlist?list=PLJkY2du8LUqA",
   "tv_label": "TV Ao Vivo",
   "chat_url": "https://lucky-resonance-e1fd.hiperappsbr.workers.dev",
   "chat_background_url": "https://i.postimg.cc/MGs2XkWM/45fb63a3a047cd09f1657a73b9f4ce30.jpg",
